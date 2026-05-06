@@ -1,0 +1,21 @@
+id: "live-player"
+series_number: 32
+name: "Reality Contact Pack"
+slug: "live-player"
+source_series_name: "How to Be a Live Player"
+ghost_tag: "live-player"
+source_path: null
+source_plan: null
+skills:
+  - id: "reality-contact-audit"
+    name: "Reality Contact Audit"
+    path: "skills/reality-contact-audit.md"
+  - id: "assumption-refresh-loop"
+    name: "Assumption Refresh Loop"
+    path: "skills/assumption-refresh-loop.md"
+  - id: "live-option-generator"
+    name: "Live Option Generator"
+    path: "skills/live-option-generator.md"
+  - id: "field-signal-review"
+    name: "Field Signal Review"
+    path: "skills/field-signal-review.md"

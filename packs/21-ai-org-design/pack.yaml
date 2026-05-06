@@ -1,0 +1,21 @@
+id: "ai-org-design"
+series_number: 21
+name: "AI Org Design Pack"
+slug: "ai-org-design"
+source_series_name: "Operating Structure for the AI Era"
+ghost_tag: "operating-structure"
+source_path: null
+source_plan: null
+skills:
+  - id: "ai-era-role-redesign"
+    name: "AI-Era Role Redesign"
+    path: "skills/ai-era-role-redesign.md"
+  - id: "agent-human-boundary-map"
+    name: "Agent-Human Boundary Map"
+    path: "skills/agent-human-boundary-map.md"
+  - id: "ai-governance-cadence"
+    name: "AI Governance Cadence"
+    path: "skills/ai-governance-cadence.md"
+  - id: "org-capability-shift-plan"
+    name: "Org Capability Shift Plan"
+    path: "skills/org-capability-shift-plan.md"

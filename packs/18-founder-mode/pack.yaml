@@ -1,0 +1,21 @@
+id: "founder-mode"
+series_number: 18
+name: "Founder Leverage Pack"
+slug: "founder-mode"
+source_series_name: "Founder Mode That Actually Scales"
+ghost_tag: "founder-mode"
+source_path: null
+source_plan: null
+skills:
+  - id: "founder-leverage-audit"
+    name: "Founder Leverage Audit"
+    path: "skills/founder-leverage-audit.md"
+  - id: "founder-context-capture"
+    name: "Founder Context Capture"
+    path: "skills/founder-context-capture.md"
+  - id: "founder-decision-rights-reset"
+    name: "Founder Decision Rights Reset"
+    path: "skills/founder-decision-rights-reset.md"
+  - id: "scaling-founder-rituals"
+    name: "Scaling Founder Rituals"
+    path: "skills/scaling-founder-rituals.md"

@@ -1,0 +1,21 @@
+id: "agency"
+series_number: 31
+name: "Agency Training Pack"
+slug: "agency"
+source_series_name: "Agency / High Agency"
+ghost_tag: "agency"
+source_path: null
+source_plan: null
+skills:
+  - id: "agency-gap-diagnosis"
+    name: "Agency Gap Diagnosis"
+    path: "skills/agency-gap-diagnosis.md"
+  - id: "constraint-reframe-drill"
+    name: "Constraint Reframe Drill"
+    path: "skills/constraint-reframe-drill.md"
+  - id: "owner-mindset-plan"
+    name: "Owner Mindset Plan"
+    path: "skills/owner-mindset-plan.md"
+  - id: "high-agency-retrospective"
+    name: "High-Agency Retrospective"
+    path: "skills/high-agency-retrospective.md"

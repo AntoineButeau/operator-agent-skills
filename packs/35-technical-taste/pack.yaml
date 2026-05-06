@@ -1,0 +1,21 @@
+id: "technical-taste"
+series_number: 35
+name: "Technical Taste Pack"
+slug: "technical-taste"
+source_series_name: "Technical Literacy / Technical Taste"
+ghost_tag: "technical-literacy"
+source_path: null
+source_plan: null
+skills:
+  - id: "technical-decision-brief"
+    name: "Technical Decision Brief"
+    path: "skills/technical-decision-brief.md"
+  - id: "architecture-risk-scan"
+    name: "Architecture Risk Scan"
+    path: "skills/architecture-risk-scan.md"
+  - id: "technical-taste-review"
+    name: "Technical Taste Review"
+    path: "skills/technical-taste-review.md"
+  - id: "ai-code-review-context-pack"
+    name: "AI Code Review Context Pack"
+    path: "skills/ai-code-review-context-pack.md"

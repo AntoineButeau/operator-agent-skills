@@ -1,0 +1,21 @@
+id: "power-map"
+series_number: 28
+name: "Power Map Pack"
+slug: "power-map"
+source_series_name: "Power That Actually Moves Work"
+ghost_tag: "power"
+source_path: null
+source_plan: null
+skills:
+  - id: "influence-network-map"
+    name: "Influence Network Map"
+    path: "skills/influence-network-map.md"
+  - id: "power-risk-review"
+    name: "Power Risk Review"
+    path: "skills/power-risk-review.md"
+  - id: "coalition-building-plan"
+    name: "Coalition Building Plan"
+    path: "skills/coalition-building-plan.md"
+  - id: "political-friction-diagnosis"
+    name: "Political Friction Diagnosis"
+    path: "skills/political-friction-diagnosis.md"

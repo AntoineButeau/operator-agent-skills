@@ -1,0 +1,21 @@
+id: "builder-shift"
+series_number: 19
+name: "Internal Builder Pack"
+slug: "builder-shift"
+source_series_name: "The Builder Shift"
+ghost_tag: "builder-shift"
+source_path: null
+source_plan: null
+skills:
+  - id: "internal-tool-opportunity-map"
+    name: "Internal Tool Opportunity Map"
+    path: "skills/internal-tool-opportunity-map.md"
+  - id: "operator-to-builder-spec"
+    name: "Operator to Builder Spec"
+    path: "skills/operator-to-builder-spec.md"
+  - id: "prototype-scope-cutter"
+    name: "Prototype Scope Cutter"
+    path: "skills/prototype-scope-cutter.md"
+  - id: "builder-adoption-plan"
+    name: "Builder Adoption Plan"
+    path: "skills/builder-adoption-plan.md"

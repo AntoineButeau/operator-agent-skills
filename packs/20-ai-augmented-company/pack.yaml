@@ -1,0 +1,21 @@
+id: "ai-augmented-company"
+series_number: 20
+name: "AI Transformation Pack"
+slug: "ai-augmented-company"
+source_series_name: "The AI-Augmented Company"
+ghost_tag: "ai-augmented-company"
+source_path: null
+source_plan: null
+skills:
+  - id: "ai-capability-map"
+    name: "AI Capability Map"
+    path: "skills/ai-capability-map.md"
+  - id: "team-ai-readiness-review"
+    name: "Team AI Readiness Review"
+    path: "skills/team-ai-readiness-review.md"
+  - id: "ai-operating-policy-draft"
+    name: "AI Operating Policy Draft"
+    path: "skills/ai-operating-policy-draft.md"
+  - id: "ai-transformation-roadmap"
+    name: "AI Transformation Roadmap"
+    path: "skills/ai-transformation-roadmap.md"

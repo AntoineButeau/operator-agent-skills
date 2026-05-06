@@ -1,0 +1,21 @@
+id: "positioning"
+series_number: 23
+name: "Positioning System Pack"
+slug: "positioning"
+source_series_name: "Positioning"
+ghost_tag: "positioning"
+source_path: null
+source_plan: null
+skills:
+  - id: "category-context-map"
+    name: "Category Context Map"
+    path: "skills/category-context-map.md"
+  - id: "positioning-statement-builder"
+    name: "Positioning Statement Builder"
+    path: "skills/positioning-statement-builder.md"
+  - id: "proof-point-inventory"
+    name: "Proof Point Inventory"
+    path: "skills/proof-point-inventory.md"
+  - id: "message-confusion-audit"
+    name: "Message Confusion Audit"
+    path: "skills/message-confusion-audit.md"

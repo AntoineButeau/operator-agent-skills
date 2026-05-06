@@ -1,0 +1,1179 @@
+{
+  "name": "operator-agent-skills",
+  "description": "Reusable operator-agent workflow skill packs derived from Antoine Buteau content series. These are portable workflow specifications, not OpenClaw runtime skills yet.",
+  "private": true,
+  "pack_count": 39,
+  "packs": [
+    {
+      "id": "expert-manager",
+      "series_number": 1,
+      "name": "Manager Operating System Pack",
+      "source_series_name": "Expert Manager",
+      "ghost_tag": "expert-manager",
+      "path": "packs/01-expert-manager",
+      "skills": [
+        {
+          "id": "first-90-days-manager-diagnostic",
+          "name": "First 90 Days Manager Diagnostic",
+          "path": "skills/first-90-days-manager-diagnostic.md"
+        },
+        {
+          "id": "delegation-contract-builder",
+          "name": "Delegation Contract Builder",
+          "path": "skills/delegation-contract-builder.md"
+        },
+        {
+          "id": "one-on-one-system-designer",
+          "name": "One-on-One System Designer",
+          "path": "skills/one-on-one-system-designer.md"
+        },
+        {
+          "id": "decision-journal-coach",
+          "name": "Decision Journal Coach",
+          "path": "skills/decision-journal-coach.md"
+        }
+      ]
+    },
+    {
+      "id": "managing-up",
+      "series_number": 2,
+      "name": "Upward Signal Pack",
+      "source_series_name": "Managing Up",
+      "ghost_tag": "managing-up",
+      "path": "packs/02-managing-up",
+      "skills": [
+        {
+          "id": "manager-trust-update",
+          "name": "Manager Trust Update",
+          "path": "skills/manager-trust-update.md"
+        },
+        {
+          "id": "upward-disagreement-brief",
+          "name": "Upward Disagreement Brief",
+          "path": "skills/upward-disagreement-brief.md"
+        },
+        {
+          "id": "escalation-judgment-check",
+          "name": "Escalation Judgment Check",
+          "path": "skills/escalation-judgment-check.md"
+        },
+        {
+          "id": "priority-reading-map",
+          "name": "Priority Reading Map",
+          "path": "skills/priority-reading-map.md"
+        }
+      ]
+    },
+    {
+      "id": "personal-productivity-km",
+      "series_number": 3,
+      "name": "Personal Knowledge OS Pack",
+      "source_series_name": "Personal Productivity + Knowledge Management",
+      "ghost_tag": "productivity-km",
+      "path": "packs/03-personal-productivity-km",
+      "skills": [
+        {
+          "id": "capture-purpose-filter",
+          "name": "Capture Purpose Filter",
+          "path": "skills/capture-purpose-filter.md"
+        },
+        {
+          "id": "weekly-review-protocol",
+          "name": "Weekly Review Protocol",
+          "path": "skills/weekly-review-protocol.md"
+        },
+        {
+          "id": "notes-to-output-pipeline",
+          "name": "Notes to Output Pipeline",
+          "path": "skills/notes-to-output-pipeline.md"
+        },
+        {
+          "id": "system-decay-triage",
+          "name": "System Decay Triage",
+          "path": "skills/system-decay-triage.md"
+        }
+      ]
+    },
+    {
+      "id": "metrics-reporting",
+      "series_number": 4,
+      "name": "Decision Metrics Pack",
+      "source_series_name": "Goals / Metrics / Dashboards / Reporting",
+      "ghost_tag": "metrics-reporting",
+      "path": "packs/04-metrics-reporting",
+      "skills": [
+        {
+          "id": "metric-quality-audit",
+          "name": "Metric Quality Audit",
+          "path": "skills/metric-quality-audit.md"
+        },
+        {
+          "id": "decision-dashboard-brief",
+          "name": "Decision Dashboard Brief",
+          "path": "skills/decision-dashboard-brief.md"
+        },
+        {
+          "id": "weekly-report-upgrade",
+          "name": "Weekly Report Upgrade",
+          "path": "skills/weekly-report-upgrade.md"
+        },
+        {
+          "id": "metric-owner-map",
+          "name": "Metric Owner Map",
+          "path": "skills/metric-owner-map.md"
+        }
+      ]
+    },
+    {
+      "id": "great-executive",
+      "series_number": 5,
+      "name": "Executive Leverage Pack",
+      "source_series_name": "Being a Great Executive",
+      "ghost_tag": "executive",
+      "path": "packs/05-great-executive",
+      "skills": [
+        {
+          "id": "executive-attention-audit",
+          "name": "Executive Attention Audit",
+          "path": "skills/executive-attention-audit.md"
+        },
+        {
+          "id": "strategic-no-brief",
+          "name": "Strategic No Brief",
+          "path": "skills/strategic-no-brief.md"
+        },
+        {
+          "id": "talent-calibration-loop",
+          "name": "Talent Calibration Loop",
+          "path": "skills/talent-calibration-loop.md"
+        },
+        {
+          "id": "legacy-system-review",
+          "name": "Legacy System Review",
+          "path": "skills/legacy-system-review.md"
+        }
+      ]
+    },
+    {
+      "id": "organizational-design",
+      "series_number": 6,
+      "name": "Org Design Diagnostic Pack",
+      "source_series_name": "Organizational Design",
+      "ghost_tag": "organizational-design",
+      "path": "packs/06-organizational-design",
+      "skills": [
+        {
+          "id": "org-design-diagnosis",
+          "name": "Org Design Diagnosis",
+          "path": "skills/org-design-diagnosis.md"
+        },
+        {
+          "id": "decision-rights-matrix",
+          "name": "Decision Rights Matrix",
+          "path": "skills/decision-rights-matrix.md"
+        },
+        {
+          "id": "handoff-friction-map",
+          "name": "Handoff Friction Map",
+          "path": "skills/handoff-friction-map.md"
+        },
+        {
+          "id": "role-clarity-redesign",
+          "name": "Role Clarity Redesign",
+          "path": "skills/role-clarity-redesign.md"
+        }
+      ]
+    },
+    {
+      "id": "decision-making-systems-thinking",
+      "series_number": 7,
+      "name": "Judgment System Pack",
+      "source_series_name": "Decision Making & Systems Thinking",
+      "ghost_tag": "decision-making-systems-thinking",
+      "path": "packs/07-decision-making-systems-thinking",
+      "skills": [
+        {
+          "id": "decision-type-classifier",
+          "name": "Decision Type Classifier",
+          "path": "skills/decision-type-classifier.md"
+        },
+        {
+          "id": "second-order-effects-scan",
+          "name": "Second-Order Effects Scan",
+          "path": "skills/second-order-effects-scan.md"
+        },
+        {
+          "id": "constraint-finder",
+          "name": "Constraint Finder",
+          "path": "skills/constraint-finder.md"
+        },
+        {
+          "id": "incentive-behavior-review",
+          "name": "Incentive Behavior Review",
+          "path": "skills/incentive-behavior-review.md"
+        }
+      ]
+    },
+    {
+      "id": "shipping-velocity",
+      "series_number": 8,
+      "name": "Shipping System Pack",
+      "source_series_name": "Shipping Velocity / How Teams Actually Ship Faster",
+      "ghost_tag": "shipping-velocity",
+      "path": "packs/08-shipping-velocity",
+      "skills": [
+        {
+          "id": "shipping-delay-audit",
+          "name": "Shipping Delay Audit",
+          "path": "skills/shipping-delay-audit.md"
+        },
+        {
+          "id": "scope-slicer",
+          "name": "Scope Slicer",
+          "path": "skills/scope-slicer.md"
+        },
+        {
+          "id": "rework-root-cause-review",
+          "name": "Rework Root Cause Review",
+          "path": "skills/rework-root-cause-review.md"
+        },
+        {
+          "id": "quality-speed-tradeoff-check",
+          "name": "Quality-Speed Tradeoff Check",
+          "path": "skills/quality-speed-tradeoff-check.md"
+        }
+      ]
+    },
+    {
+      "id": "pricing-packaging",
+      "series_number": 9,
+      "name": "Pricing Decision Pack",
+      "source_series_name": "Pricing and Packaging",
+      "ghost_tag": "pricing-packaging",
+      "path": "packs/09-pricing-packaging",
+      "skills": [
+        {
+          "id": "pricing-segmentation-brief",
+          "name": "Pricing Segmentation Brief",
+          "path": "skills/pricing-segmentation-brief.md"
+        },
+        {
+          "id": "price-metric-evaluator",
+          "name": "Price Metric Evaluator",
+          "path": "skills/price-metric-evaluator.md"
+        },
+        {
+          "id": "discount-signal-analysis",
+          "name": "Discount Signal Analysis",
+          "path": "skills/discount-signal-analysis.md"
+        },
+        {
+          "id": "pricing-change-rollout",
+          "name": "Pricing Change Rollout",
+          "path": "skills/pricing-change-rollout.md"
+        }
+      ]
+    },
+    {
+      "id": "international-gtm",
+      "series_number": 10,
+      "name": "Market Expansion Pack",
+      "source_series_name": "Internationalization & International Go-To-Market",
+      "ghost_tag": "international",
+      "path": "packs/10-international-gtm",
+      "skills": [
+        {
+          "id": "market-selection-scorecard",
+          "name": "Market Selection Scorecard",
+          "path": "skills/market-selection-scorecard.md"
+        },
+        {
+          "id": "localization-vs-adaptation-check",
+          "name": "Localization vs Adaptation Check",
+          "path": "skills/localization-vs-adaptation-check.md"
+        },
+        {
+          "id": "international-gtm-readiness",
+          "name": "International GTM Readiness",
+          "path": "skills/international-gtm-readiness.md"
+        },
+        {
+          "id": "market-entry-plan",
+          "name": "Market Entry Plan",
+          "path": "skills/market-entry-plan.md"
+        }
+      ]
+    },
+    {
+      "id": "operating-cadence",
+      "series_number": 11,
+      "name": "Operating Cadence Pack",
+      "source_series_name": "Operating Cadence & Management Systems",
+      "ghost_tag": "operating-cadence",
+      "path": "packs/11-operating-cadence",
+      "skills": [
+        {
+          "id": "cadence-architecture-map",
+          "name": "Cadence Architecture Map",
+          "path": "skills/cadence-architecture-map.md"
+        },
+        {
+          "id": "weekly-business-review-design",
+          "name": "Weekly Business Review Design",
+          "path": "skills/weekly-business-review-design.md"
+        },
+        {
+          "id": "meeting-system-prune",
+          "name": "Meeting System Prune",
+          "path": "skills/meeting-system-prune.md"
+        },
+        {
+          "id": "cadence-health-check",
+          "name": "Cadence Health Check",
+          "path": "skills/cadence-health-check.md"
+        }
+      ]
+    },
+    {
+      "id": "revenue-operations",
+      "series_number": 12,
+      "name": "RevOps System Pack",
+      "source_series_name": "Revenue Operations",
+      "ghost_tag": "revenue-operations",
+      "path": "packs/12-revenue-operations",
+      "skills": [
+        {
+          "id": "funnel-integrity-audit",
+          "name": "Funnel Integrity Audit",
+          "path": "skills/funnel-integrity-audit.md"
+        },
+        {
+          "id": "gtm-handoff-map",
+          "name": "GTM Handoff Map",
+          "path": "skills/gtm-handoff-map.md"
+        },
+        {
+          "id": "forecast-reliability-review",
+          "name": "Forecast Reliability Review",
+          "path": "skills/forecast-reliability-review.md"
+        },
+        {
+          "id": "revops-change-control",
+          "name": "RevOps Change Control",
+          "path": "skills/revops-change-control.md"
+        }
+      ]
+    },
+    {
+      "id": "gtm-strategy",
+      "series_number": 13,
+      "name": "GTM Strategy Pack",
+      "source_series_name": "Go-To-Market Strategy",
+      "ghost_tag": "gtm-strategy",
+      "path": "packs/13-gtm-strategy",
+      "skills": [
+        {
+          "id": "gtm-thesis-builder",
+          "name": "GTM Thesis Builder",
+          "path": "skills/gtm-thesis-builder.md"
+        },
+        {
+          "id": "icp-focus-check",
+          "name": "ICP Focus Check",
+          "path": "skills/icp-focus-check.md"
+        },
+        {
+          "id": "channel-fit-evaluator",
+          "name": "Channel Fit Evaluator",
+          "path": "skills/channel-fit-evaluator.md"
+        },
+        {
+          "id": "gtm-operating-plan",
+          "name": "GTM Operating Plan",
+          "path": "skills/gtm-operating-plan.md"
+        }
+      ]
+    },
+    {
+      "id": "automation-architecture",
+      "series_number": 14,
+      "name": "Automation Design Pack",
+      "source_series_name": "Automation / AI Automation Architecture",
+      "ghost_tag": "automation",
+      "path": "packs/14-automation-architecture",
+      "skills": [
+        {
+          "id": "automation-opportunity-scan",
+          "name": "Automation Opportunity Scan",
+          "path": "skills/automation-opportunity-scan.md"
+        },
+        {
+          "id": "human-in-the-loop-design",
+          "name": "Human-in-the-Loop Design",
+          "path": "skills/human-in-the-loop-design.md"
+        },
+        {
+          "id": "automation-roi-brief",
+          "name": "Automation ROI Brief",
+          "path": "skills/automation-roi-brief.md"
+        },
+        {
+          "id": "agent-workflow-spec",
+          "name": "Agent Workflow Spec",
+          "path": "skills/agent-workflow-spec.md"
+        }
+      ]
+    },
+    {
+      "id": "building-ai-products",
+      "series_number": 15,
+      "name": "AI Product Pack",
+      "source_series_name": "Building AI Products",
+      "ghost_tag": "building-ai-products",
+      "path": "packs/15-building-ai-products",
+      "skills": [
+        {
+          "id": "ai-use-case-qualification",
+          "name": "AI Use Case Qualification",
+          "path": "skills/ai-use-case-qualification.md"
+        },
+        {
+          "id": "model-behavior-evaluation-plan",
+          "name": "Model Behavior Evaluation Plan",
+          "path": "skills/model-behavior-evaluation-plan.md"
+        },
+        {
+          "id": "ai-product-risk-review",
+          "name": "AI Product Risk Review",
+          "path": "skills/ai-product-risk-review.md"
+        },
+        {
+          "id": "ai-feature-launch-plan",
+          "name": "AI Feature Launch Plan",
+          "path": "skills/ai-feature-launch-plan.md"
+        }
+      ]
+    },
+    {
+      "id": "product-led-growth",
+      "series_number": 16,
+      "name": "PLG Operating Pack",
+      "source_series_name": "Product-Led Growth",
+      "ghost_tag": "product-led-growth",
+      "path": "packs/16-product-led-growth",
+      "skills": [
+        {
+          "id": "activation-path-audit",
+          "name": "Activation Path Audit",
+          "path": "skills/activation-path-audit.md"
+        },
+        {
+          "id": "self-serve-conversion-map",
+          "name": "Self-Serve Conversion Map",
+          "path": "skills/self-serve-conversion-map.md"
+        },
+        {
+          "id": "product-qualified-signal-design",
+          "name": "Product-Qualified Signal Design",
+          "path": "skills/product-qualified-signal-design.md"
+        },
+        {
+          "id": "plg-experiment-brief",
+          "name": "PLG Experiment Brief",
+          "path": "skills/plg-experiment-brief.md"
+        }
+      ]
+    },
+    {
+      "id": "growth-systems",
+      "series_number": 17,
+      "name": "Growth Loop Pack",
+      "source_series_name": "Growth Systems That Actually Compound",
+      "ghost_tag": "growth-systems",
+      "path": "packs/17-growth-systems",
+      "skills": [
+        {
+          "id": "growth-loop-mapper",
+          "name": "Growth Loop Mapper",
+          "path": "skills/growth-loop-mapper.md"
+        },
+        {
+          "id": "experiment-portfolio-review",
+          "name": "Experiment Portfolio Review",
+          "path": "skills/experiment-portfolio-review.md"
+        },
+        {
+          "id": "retention-leverage-scan",
+          "name": "Retention Leverage Scan",
+          "path": "skills/retention-leverage-scan.md"
+        },
+        {
+          "id": "compounding-channel-evaluator",
+          "name": "Compounding Channel Evaluator",
+          "path": "skills/compounding-channel-evaluator.md"
+        }
+      ]
+    },
+    {
+      "id": "founder-mode",
+      "series_number": 18,
+      "name": "Founder Leverage Pack",
+      "source_series_name": "Founder Mode That Actually Scales",
+      "ghost_tag": "founder-mode",
+      "path": "packs/18-founder-mode",
+      "skills": [
+        {
+          "id": "founder-leverage-audit",
+          "name": "Founder Leverage Audit",
+          "path": "skills/founder-leverage-audit.md"
+        },
+        {
+          "id": "founder-context-capture",
+          "name": "Founder Context Capture",
+          "path": "skills/founder-context-capture.md"
+        },
+        {
+          "id": "founder-decision-rights-reset",
+          "name": "Founder Decision Rights Reset",
+          "path": "skills/founder-decision-rights-reset.md"
+        },
+        {
+          "id": "scaling-founder-rituals",
+          "name": "Scaling Founder Rituals",
+          "path": "skills/scaling-founder-rituals.md"
+        }
+      ]
+    },
+    {
+      "id": "builder-shift",
+      "series_number": 19,
+      "name": "Internal Builder Pack",
+      "source_series_name": "The Builder Shift",
+      "ghost_tag": "builder-shift",
+      "path": "packs/19-builder-shift",
+      "skills": [
+        {
+          "id": "internal-tool-opportunity-map",
+          "name": "Internal Tool Opportunity Map",
+          "path": "skills/internal-tool-opportunity-map.md"
+        },
+        {
+          "id": "operator-to-builder-spec",
+          "name": "Operator to Builder Spec",
+          "path": "skills/operator-to-builder-spec.md"
+        },
+        {
+          "id": "prototype-scope-cutter",
+          "name": "Prototype Scope Cutter",
+          "path": "skills/prototype-scope-cutter.md"
+        },
+        {
+          "id": "builder-adoption-plan",
+          "name": "Builder Adoption Plan",
+          "path": "skills/builder-adoption-plan.md"
+        }
+      ]
+    },
+    {
+      "id": "ai-augmented-company",
+      "series_number": 20,
+      "name": "AI Transformation Pack",
+      "source_series_name": "The AI-Augmented Company",
+      "ghost_tag": "ai-augmented-company",
+      "path": "packs/20-ai-augmented-company",
+      "skills": [
+        {
+          "id": "ai-capability-map",
+          "name": "AI Capability Map",
+          "path": "skills/ai-capability-map.md"
+        },
+        {
+          "id": "team-ai-readiness-review",
+          "name": "Team AI Readiness Review",
+          "path": "skills/team-ai-readiness-review.md"
+        },
+        {
+          "id": "ai-operating-policy-draft",
+          "name": "AI Operating Policy Draft",
+          "path": "skills/ai-operating-policy-draft.md"
+        },
+        {
+          "id": "ai-transformation-roadmap",
+          "name": "AI Transformation Roadmap",
+          "path": "skills/ai-transformation-roadmap.md"
+        }
+      ]
+    },
+    {
+      "id": "ai-org-design",
+      "series_number": 21,
+      "name": "AI Org Design Pack",
+      "source_series_name": "Operating Structure for the AI Era",
+      "ghost_tag": "operating-structure",
+      "path": "packs/21-ai-org-design",
+      "skills": [
+        {
+          "id": "ai-era-role-redesign",
+          "name": "AI-Era Role Redesign",
+          "path": "skills/ai-era-role-redesign.md"
+        },
+        {
+          "id": "agent-human-boundary-map",
+          "name": "Agent-Human Boundary Map",
+          "path": "skills/agent-human-boundary-map.md"
+        },
+        {
+          "id": "ai-governance-cadence",
+          "name": "AI Governance Cadence",
+          "path": "skills/ai-governance-cadence.md"
+        },
+        {
+          "id": "org-capability-shift-plan",
+          "name": "Org Capability Shift Plan",
+          "path": "skills/org-capability-shift-plan.md"
+        }
+      ]
+    },
+    {
+      "id": "full-stack-company",
+      "series_number": 22,
+      "name": "Vertical Integration Pack",
+      "source_series_name": "The Full-Stack Company: Vertical Integration in the AI Era",
+      "ghost_tag": "full-stack-company",
+      "path": "packs/22-full-stack-company",
+      "skills": [
+        {
+          "id": "integration-boundary-audit",
+          "name": "Integration Boundary Audit",
+          "path": "skills/integration-boundary-audit.md"
+        },
+        {
+          "id": "control-point-map",
+          "name": "Control Point Map",
+          "path": "skills/control-point-map.md"
+        },
+        {
+          "id": "build-buy-partner-brief",
+          "name": "Build Buy Partner Brief",
+          "path": "skills/build-buy-partner-brief.md"
+        },
+        {
+          "id": "vertical-integration-roadmap",
+          "name": "Vertical Integration Roadmap",
+          "path": "skills/vertical-integration-roadmap.md"
+        }
+      ]
+    },
+    {
+      "id": "positioning",
+      "series_number": 23,
+      "name": "Positioning System Pack",
+      "source_series_name": "Positioning",
+      "ghost_tag": "positioning",
+      "path": "packs/23-positioning",
+      "skills": [
+        {
+          "id": "category-context-map",
+          "name": "Category Context Map",
+          "path": "skills/category-context-map.md"
+        },
+        {
+          "id": "positioning-statement-builder",
+          "name": "Positioning Statement Builder",
+          "path": "skills/positioning-statement-builder.md"
+        },
+        {
+          "id": "proof-point-inventory",
+          "name": "Proof Point Inventory",
+          "path": "skills/proof-point-inventory.md"
+        },
+        {
+          "id": "message-confusion-audit",
+          "name": "Message Confusion Audit",
+          "path": "skills/message-confusion-audit.md"
+        }
+      ]
+    },
+    {
+      "id": "sales-management",
+      "series_number": 24,
+      "name": "Sales Manager OS Pack",
+      "source_series_name": "Sales Management That Actually Works",
+      "ghost_tag": "sales-management",
+      "path": "packs/24-sales-management",
+      "skills": [
+        {
+          "id": "pipeline-inspection-routine",
+          "name": "Pipeline Inspection Routine",
+          "path": "skills/pipeline-inspection-routine.md"
+        },
+        {
+          "id": "rep-coaching-plan",
+          "name": "Rep Coaching Plan",
+          "path": "skills/rep-coaching-plan.md"
+        },
+        {
+          "id": "forecast-call-prep",
+          "name": "Forecast Call Prep",
+          "path": "skills/forecast-call-prep.md"
+        },
+        {
+          "id": "sales-operating-cadence",
+          "name": "Sales Operating Cadence",
+          "path": "skills/sales-operating-cadence.md"
+        }
+      ]
+    },
+    {
+      "id": "great-coo",
+      "series_number": 25,
+      "name": "COO Operating Model Pack",
+      "source_series_name": "How to Be a Great COO: The Operating System Behind the Company",
+      "ghost_tag": "great-coo",
+      "path": "packs/25-great-coo",
+      "skills": [
+        {
+          "id": "company-operating-model-map",
+          "name": "Company Operating Model Map",
+          "path": "skills/company-operating-model-map.md"
+        },
+        {
+          "id": "cross-functional-issue-room",
+          "name": "Cross-Functional Issue Room",
+          "path": "skills/cross-functional-issue-room.md"
+        },
+        {
+          "id": "execution-risk-register",
+          "name": "Execution Risk Register",
+          "path": "skills/execution-risk-register.md"
+        },
+        {
+          "id": "coo-leverage-dashboard",
+          "name": "COO Leverage Dashboard",
+          "path": "skills/coo-leverage-dashboard.md"
+        }
+      ]
+    },
+    {
+      "id": "company-behavior",
+      "series_number": 26,
+      "name": "Behavioral OS Pack",
+      "source_series_name": "How Companies Actually Behave: Operating Principles, Decision Rules, and the Hidden System Behind Culture",
+      "ghost_tag": "how-companies-behave",
+      "path": "packs/26-company-behavior",
+      "skills": [
+        {
+          "id": "revealed-behavior-audit",
+          "name": "Revealed Behavior Audit",
+          "path": "skills/revealed-behavior-audit.md"
+        },
+        {
+          "id": "decision-rule-extractor",
+          "name": "Decision Rule Extractor",
+          "path": "skills/decision-rule-extractor.md"
+        },
+        {
+          "id": "culture-operating-gap-review",
+          "name": "Culture Operating Gap Review",
+          "path": "skills/culture-operating-gap-review.md"
+        },
+        {
+          "id": "behavior-change-lever-map",
+          "name": "Behavior Change Lever Map",
+          "path": "skills/behavior-change-lever-map.md"
+        }
+      ]
+    },
+    {
+      "id": "change-adoption",
+      "series_number": 27,
+      "name": "Change Adoption Pack",
+      "source_series_name": "Change That Actually Takes: How Companies Move From Announcement to Adoption",
+      "ghost_tag": "change-that-takes",
+      "path": "packs/27-change-adoption",
+      "skills": [
+        {
+          "id": "change-readiness-scan",
+          "name": "Change Readiness Scan",
+          "path": "skills/change-readiness-scan.md"
+        },
+        {
+          "id": "announcement-to-adoption-plan",
+          "name": "Announcement to Adoption Plan",
+          "path": "skills/announcement-to-adoption-plan.md"
+        },
+        {
+          "id": "resistance-diagnosis",
+          "name": "Resistance Diagnosis",
+          "path": "skills/resistance-diagnosis.md"
+        },
+        {
+          "id": "change-embedding-review",
+          "name": "Change Embedding Review",
+          "path": "skills/change-embedding-review.md"
+        }
+      ]
+    },
+    {
+      "id": "power-map",
+      "series_number": 28,
+      "name": "Power Map Pack",
+      "source_series_name": "Power That Actually Moves Work",
+      "ghost_tag": "power",
+      "path": "packs/28-power-map",
+      "skills": [
+        {
+          "id": "influence-network-map",
+          "name": "Influence Network Map",
+          "path": "skills/influence-network-map.md"
+        },
+        {
+          "id": "power-risk-review",
+          "name": "Power Risk Review",
+          "path": "skills/power-risk-review.md"
+        },
+        {
+          "id": "coalition-building-plan",
+          "name": "Coalition Building Plan",
+          "path": "skills/coalition-building-plan.md"
+        },
+        {
+          "id": "political-friction-diagnosis",
+          "name": "Political Friction Diagnosis",
+          "path": "skills/political-friction-diagnosis.md"
+        }
+      ]
+    },
+    {
+      "id": "executive-communication",
+      "series_number": 29,
+      "name": "Executive Clarity Pack",
+      "source_series_name": "Executive Communication That Creates Clarity: How Leaders Use Memos, Updates, Narratives, and Escalations to Help Organizations Decide",
+      "ghost_tag": "executive-communication",
+      "path": "packs/29-executive-communication",
+      "skills": [
+        {
+          "id": "executive-memo-builder",
+          "name": "Executive Memo Builder",
+          "path": "skills/executive-memo-builder.md"
+        },
+        {
+          "id": "narrative-arc-review",
+          "name": "Narrative Arc Review",
+          "path": "skills/narrative-arc-review.md"
+        },
+        {
+          "id": "escalation-memo-shaper",
+          "name": "Escalation Memo Shaper",
+          "path": "skills/escalation-memo-shaper.md"
+        },
+        {
+          "id": "executive-update-compressor",
+          "name": "Executive Update Compressor",
+          "path": "skills/executive-update-compressor.md"
+        }
+      ]
+    },
+    {
+      "id": "internal-communication",
+      "series_number": 30,
+      "name": "Company Signal Pack",
+      "source_series_name": "Internal Communication That Actually Works: How Companies Move Context, Decisions, and Signal Without Drowning in Noise",
+      "ghost_tag": "internal-communication",
+      "path": "packs/30-internal-communication",
+      "skills": [
+        {
+          "id": "company-signal-brief",
+          "name": "Company Signal Brief",
+          "path": "skills/company-signal-brief.md"
+        },
+        {
+          "id": "decision-log-entry",
+          "name": "Decision Log Entry",
+          "path": "skills/decision-log-entry.md"
+        },
+        {
+          "id": "communication-channel-audit",
+          "name": "Communication Channel Audit",
+          "path": "skills/communication-channel-audit.md"
+        },
+        {
+          "id": "context-package-builder",
+          "name": "Context Package Builder",
+          "path": "skills/context-package-builder.md"
+        }
+      ]
+    },
+    {
+      "id": "agency",
+      "series_number": 31,
+      "name": "Agency Training Pack",
+      "source_series_name": "Agency / High Agency",
+      "ghost_tag": "agency",
+      "path": "packs/31-agency",
+      "skills": [
+        {
+          "id": "agency-gap-diagnosis",
+          "name": "Agency Gap Diagnosis",
+          "path": "skills/agency-gap-diagnosis.md"
+        },
+        {
+          "id": "constraint-reframe-drill",
+          "name": "Constraint Reframe Drill",
+          "path": "skills/constraint-reframe-drill.md"
+        },
+        {
+          "id": "owner-mindset-plan",
+          "name": "Owner Mindset Plan",
+          "path": "skills/owner-mindset-plan.md"
+        },
+        {
+          "id": "high-agency-retrospective",
+          "name": "High-Agency Retrospective",
+          "path": "skills/high-agency-retrospective.md"
+        }
+      ]
+    },
+    {
+      "id": "live-player",
+      "series_number": 32,
+      "name": "Reality Contact Pack",
+      "source_series_name": "How to Be a Live Player",
+      "ghost_tag": "live-player",
+      "path": "packs/32-live-player",
+      "skills": [
+        {
+          "id": "reality-contact-audit",
+          "name": "Reality Contact Audit",
+          "path": "skills/reality-contact-audit.md"
+        },
+        {
+          "id": "assumption-refresh-loop",
+          "name": "Assumption Refresh Loop",
+          "path": "skills/assumption-refresh-loop.md"
+        },
+        {
+          "id": "live-option-generator",
+          "name": "Live Option Generator",
+          "path": "skills/live-option-generator.md"
+        },
+        {
+          "id": "field-signal-review",
+          "name": "Field Signal Review",
+          "path": "skills/field-signal-review.md"
+        }
+      ]
+    },
+    {
+      "id": "bizops",
+      "series_number": 33,
+      "name": "BizOps Decision Support Pack",
+      "source_series_name": "BizOps / Business Operations",
+      "ghost_tag": "bizops",
+      "path": "packs/33-bizops",
+      "skills": [
+        {
+          "id": "bizops-problem-framing",
+          "name": "BizOps Problem Framing",
+          "path": "skills/bizops-problem-framing.md"
+        },
+        {
+          "id": "decision-support-model-spec",
+          "name": "Decision Support Model Spec",
+          "path": "skills/decision-support-model-spec.md"
+        },
+        {
+          "id": "operational-deep-dive-plan",
+          "name": "Operational Deep Dive Plan",
+          "path": "skills/operational-deep-dive-plan.md"
+        },
+        {
+          "id": "recommendation-memo-builder",
+          "name": "Recommendation Memo Builder",
+          "path": "skills/recommendation-memo-builder.md"
+        }
+      ]
+    },
+    {
+      "id": "strategy-execution",
+      "series_number": 34,
+      "name": "Strategy Translation Pack",
+      "source_series_name": "Strategy Execution",
+      "ghost_tag": "strategy-execution",
+      "path": "packs/34-strategy-execution",
+      "skills": [
+        {
+          "id": "strategy-to-work-map",
+          "name": "Strategy to Work Map",
+          "path": "skills/strategy-to-work-map.md"
+        },
+        {
+          "id": "initiative-priority-check",
+          "name": "Initiative Priority Check",
+          "path": "skills/initiative-priority-check.md"
+        },
+        {
+          "id": "execution-dependency-map",
+          "name": "Execution Dependency Map",
+          "path": "skills/execution-dependency-map.md"
+        },
+        {
+          "id": "strategy-review-cadence",
+          "name": "Strategy Review Cadence",
+          "path": "skills/strategy-review-cadence.md"
+        }
+      ]
+    },
+    {
+      "id": "technical-taste",
+      "series_number": 35,
+      "name": "Technical Taste Pack",
+      "source_series_name": "Technical Literacy / Technical Taste",
+      "ghost_tag": "technical-literacy",
+      "path": "packs/35-technical-taste",
+      "skills": [
+        {
+          "id": "technical-decision-brief",
+          "name": "Technical Decision Brief",
+          "path": "skills/technical-decision-brief.md"
+        },
+        {
+          "id": "architecture-risk-scan",
+          "name": "Architecture Risk Scan",
+          "path": "skills/architecture-risk-scan.md"
+        },
+        {
+          "id": "technical-taste-review",
+          "name": "Technical Taste Review",
+          "path": "skills/technical-taste-review.md"
+        },
+        {
+          "id": "ai-code-review-context-pack",
+          "name": "AI Code Review Context Pack",
+          "path": "skills/ai-code-review-context-pack.md"
+        }
+      ]
+    },
+    {
+      "id": "publishing-knowledge-systems",
+      "series_number": 36,
+      "name": "Publishing Pipeline Pack",
+      "source_series_name": "Publishing & Knowledge Systems",
+      "ghost_tag": "publishing-knowledge-systems",
+      "path": "packs/36-publishing-knowledge-systems",
+      "skills": [
+        {
+          "id": "idea-to-draft-pipeline",
+          "name": "Idea to Draft Pipeline",
+          "path": "skills/idea-to-draft-pipeline.md"
+        },
+        {
+          "id": "editorial-calendar-builder",
+          "name": "Editorial Calendar Builder",
+          "path": "skills/editorial-calendar-builder.md"
+        },
+        {
+          "id": "knowledge-asset-inventory",
+          "name": "Knowledge Asset Inventory",
+          "path": "skills/knowledge-asset-inventory.md"
+        },
+        {
+          "id": "publishing-quality-gate",
+          "name": "Publishing Quality Gate",
+          "path": "skills/publishing-quality-gate.md"
+        }
+      ]
+    },
+    {
+      "id": "individual-operator",
+      "series_number": 37,
+      "name": "Individual Operator Pack",
+      "source_series_name": "From Individual Contributor to Individual Operator",
+      "ghost_tag": "individual-operator",
+      "path": "packs/37-individual-operator",
+      "skills": [
+        {
+          "id": "operator-scope-map",
+          "name": "Operator Scope Map",
+          "path": "skills/operator-scope-map.md"
+        },
+        {
+          "id": "work-legibility-update",
+          "name": "Work Legibility Update",
+          "path": "skills/work-legibility-update.md"
+        },
+        {
+          "id": "autonomy-readiness-plan",
+          "name": "Autonomy Readiness Plan",
+          "path": "skills/autonomy-readiness-plan.md"
+        },
+        {
+          "id": "operator-retrospective",
+          "name": "Operator Retrospective",
+          "path": "skills/operator-retrospective.md"
+        }
+      ]
+    },
+    {
+      "id": "legibility-operator",
+      "series_number": 38,
+      "name": "Legibility Operator Pack",
+      "source_series_name": "Legibility and Illegibility for Operators",
+      "ghost_tag": "legibility-illegibility",
+      "path": "packs/38-legibility-operator",
+      "skills": [
+        {
+          "id": "legibility-audit",
+          "name": "Legibility Audit",
+          "path": "skills/legibility-audit.md"
+        },
+        {
+          "id": "strategic-illegibility-check",
+          "name": "Strategic Illegibility Check",
+          "path": "skills/strategic-illegibility-check.md"
+        },
+        {
+          "id": "visibility-system-design",
+          "name": "Visibility System Design",
+          "path": "skills/visibility-system-design.md"
+        },
+        {
+          "id": "legible-decision-package",
+          "name": "Legible Decision Package",
+          "path": "skills/legible-decision-package.md"
+        }
+      ]
+    },
+    {
+      "id": "ai-native-gtm",
+      "series_number": 39,
+      "name": "AI-Native GTM Pack",
+      "source_series_name": "AI-Native GTM",
+      "ghost_tag": "ai-native-gtm",
+      "path": "packs/39-ai-native-gtm",
+      "skills": [
+        {
+          "id": "ai-native-buyer-journey-map",
+          "name": "AI-Native Buyer Journey Map",
+          "path": "skills/ai-native-buyer-journey-map.md"
+        },
+        {
+          "id": "agentic-sales-workflow-spec",
+          "name": "Agentic Sales Workflow Spec",
+          "path": "skills/agentic-sales-workflow-spec.md"
+        },
+        {
+          "id": "gtm-data-readiness-scan",
+          "name": "GTM Data Readiness Scan",
+          "path": "skills/gtm-data-readiness-scan.md"
+        },
+        {
+          "id": "ai-native-campaign-system",
+          "name": "AI-Native Campaign System",
+          "path": "skills/ai-native-campaign-system.md"
+        }
+      ]
+    }
+  ],
+  "skill_count": 156
+}

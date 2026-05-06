@@ -1,0 +1,21 @@
+id: "automation-architecture"
+series_number: 14
+name: "Automation Design Pack"
+slug: "automation-architecture"
+source_series_name: "Automation / AI Automation Architecture"
+ghost_tag: "automation"
+source_path: null
+source_plan: null
+skills:
+  - id: "automation-opportunity-scan"
+    name: "Automation Opportunity Scan"
+    path: "skills/automation-opportunity-scan.md"
+  - id: "human-in-the-loop-design"
+    name: "Human-in-the-Loop Design"
+    path: "skills/human-in-the-loop-design.md"
+  - id: "automation-roi-brief"
+    name: "Automation ROI Brief"
+    path: "skills/automation-roi-brief.md"
+  - id: "agent-workflow-spec"
+    name: "Agent Workflow Spec"
+    path: "skills/agent-workflow-spec.md"

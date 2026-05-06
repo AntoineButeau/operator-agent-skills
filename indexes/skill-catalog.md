@@ -1,0 +1,158 @@
+# Skill Catalog
+
+- **First 90 Days Manager Diagnostic** (`packs/01-expert-manager/skills/first-90-days-manager-diagnostic.md`) — manager entering a new team needs to understand people, priorities, decision rights, and risk before changing the system.
+- **Delegation Contract Builder** (`packs/01-expert-manager/skills/delegation-contract-builder.md`) — work needs to move from manager-owned to team-owned without ambiguity or hidden control loops.
+- **One-on-One System Designer** (`packs/01-expert-manager/skills/one-on-one-system-designer.md`) — 1:1s are drifting into status reporting instead of coaching, alignment, and risk discovery.
+- **Decision Journal Coach** (`packs/01-expert-manager/skills/decision-journal-coach.md`) — a manager wants accountability and learning without blame after important calls.
+- **Manager Trust Update** (`packs/02-managing-up/skills/manager-trust-update.md`) — an IC or lead needs to update a manager with signal instead of activity.
+- **Upward Disagreement Brief** (`packs/02-managing-up/skills/upward-disagreement-brief.md`) — you need to disagree with a senior person without creating unnecessary friction.
+- **Escalation Judgment Check** (`packs/02-managing-up/skills/escalation-judgment-check.md`) — you are unsure whether to handle an issue locally or escalate it.
+- **Priority Reading Map** (`packs/02-managing-up/skills/priority-reading-map.md`) — official priorities do not match the manager’s actual attention and tradeoffs.
+- **Capture Purpose Filter** (`packs/03-personal-productivity-km/skills/capture-purpose-filter.md`) — a knowledge system is collecting too much and producing too little.
+- **Weekly Review Protocol** (`packs/03-personal-productivity-km/skills/weekly-review-protocol.md`) — tasks, notes, and commitments are decaying because the review loop is weak.
+- **Notes to Output Pipeline** (`packs/03-personal-productivity-km/skills/notes-to-output-pipeline.md`) — raw notes need to become decisions, drafts, or reusable assets.
+- **System Decay Triage** (`packs/03-personal-productivity-km/skills/system-decay-triage.md`) — a personal system feels broken and needs fast stabilization.
+- **Metric Quality Audit** (`packs/04-metrics-reporting/skills/metric-quality-audit.md`) — a metric may be vanity, gameable, lagging, or disconnected from decisions.
+- **Decision Dashboard Brief** (`packs/04-metrics-reporting/skills/decision-dashboard-brief.md`) — a dashboard needs to help people decide, not admire numbers.
+- **Weekly Report Upgrade** (`packs/04-metrics-reporting/skills/weekly-report-upgrade.md`) — a recurring report is unread, too long, or lacking interpretation.
+- **Metric Owner Map** (`packs/04-metrics-reporting/skills/metric-owner-map.md`) — accountability is unclear for outcomes or operating numbers.
+- **Executive Attention Audit** (`packs/05-great-executive/skills/executive-attention-audit.md`) — an executive needs to decide where their attention has the highest leverage.
+- **Strategic No Brief** (`packs/05-great-executive/skills/strategic-no-brief.md`) — leadership needs to decline work without sounding arbitrary or political.
+- **Talent Calibration Loop** (`packs/05-great-executive/skills/talent-calibration-loop.md`) — a leadership team needs continuous talent judgment rather than annual surprises.
+- **Legacy System Review** (`packs/05-great-executive/skills/legacy-system-review.md`) — an executive wants to build systems that outlast their direct involvement.
+- **Org Design Diagnosis** (`packs/06-organizational-design/skills/org-design-diagnosis.md`) — teams are slow, confused, duplicated, or misaligned and structure may be the cause.
+- **Decision Rights Matrix** (`packs/06-organizational-design/skills/decision-rights-matrix.md`) — people are unclear who decides, recommends, executes, or escalates.
+- **Handoff Friction Map** (`packs/06-organizational-design/skills/handoff-friction-map.md`) — work crosses teams and loses context, speed, or ownership.
+- **Role Clarity Redesign** (`packs/06-organizational-design/skills/role-clarity-redesign.md`) — roles overlap or gaps create conflict and dropped work.
+- **Decision Type Classifier** (`packs/07-decision-making-systems-thinking/skills/decision-type-classifier.md`) — a team needs to know whether to move fast, gather evidence, or escalate.
+- **Second-Order Effects Scan** (`packs/07-decision-making-systems-thinking/skills/second-order-effects-scan.md`) — a proposed action may create unintended consequences across a system.
+- **Constraint Finder** (`packs/07-decision-making-systems-thinking/skills/constraint-finder.md`) — a system is underperforming and optimization is scattered.
+- **Incentive Behavior Review** (`packs/07-decision-making-systems-thinking/skills/incentive-behavior-review.md`) — measures or rewards may be reshaping behavior in harmful ways.
+- **Shipping Delay Audit** (`packs/08-shipping-velocity/skills/shipping-delay-audit.md`) — a team ships slowly and needs to identify waiting, rework, or decision latency.
+- **Scope Slicer** (`packs/08-shipping-velocity/skills/scope-slicer.md`) — a project is too large and needs a smaller valuable release path.
+- **Rework Root Cause Review** (`packs/08-shipping-velocity/skills/rework-root-cause-review.md`) — work keeps coming back because requirements, design, or alignment were weak.
+- **Quality-Speed Tradeoff Check** (`packs/08-shipping-velocity/skills/quality-speed-tradeoff-check.md`) — teams are framing speed and quality as opposites without diagnosing the actual constraint.
+- **Pricing Segmentation Brief** (`packs/09-pricing-packaging/skills/pricing-segmentation-brief.md`) — pricing decisions are being made before customer segments are clear.
+- **Price Metric Evaluator** (`packs/09-pricing-packaging/skills/price-metric-evaluator.md`) — a company needs to choose or review seat, usage, outcome, or hybrid pricing.
+- **Discount Signal Analysis** (`packs/09-pricing-packaging/skills/discount-signal-analysis.md`) — discounting patterns may reveal packaging, value, or sales process problems.
+- **Pricing Change Rollout** (`packs/09-pricing-packaging/skills/pricing-change-rollout.md`) — a pricing change needs operational planning across sales, support, finance, and product.
+- **Market Selection Scorecard** (`packs/10-international-gtm/skills/market-selection-scorecard.md`) — a company needs to choose which international market to enter first.
+- **Localization vs Adaptation Check** (`packs/10-international-gtm/skills/localization-vs-adaptation-check.md`) — a market requires more than translation but the required depth is unclear.
+- **International GTM Readiness** (`packs/10-international-gtm/skills/international-gtm-readiness.md`) — the company is considering international expansion and needs a readiness scan.
+- **Market Entry Plan** (`packs/10-international-gtm/skills/market-entry-plan.md`) — a selected market needs a practical first launch plan.
+- **Cadence Architecture Map** (`packs/11-operating-cadence/skills/cadence-architecture-map.md`) — meetings and reviews exist but do not connect strategy, decisions, and execution.
+- **Weekly Business Review Design** (`packs/11-operating-cadence/skills/weekly-business-review-design.md`) — a team needs a recurring review that drives decisions instead of status theater.
+- **Meeting System Prune** (`packs/11-operating-cadence/skills/meeting-system-prune.md`) — the calendar is bloated and operating rituals need cleanup.
+- **Cadence Health Check** (`packs/11-operating-cadence/skills/cadence-health-check.md`) — an operating system is decaying or failing to surface issues early.
+- **Funnel Integrity Audit** (`packs/12-revenue-operations/skills/funnel-integrity-audit.md`) — pipeline data or handoffs are unreliable across marketing, sales, and success.
+- **GTM Handoff Map** (`packs/12-revenue-operations/skills/gtm-handoff-map.md`) — leads, opportunities, or customers lose momentum between teams.
+- **Forecast Reliability Review** (`packs/12-revenue-operations/skills/forecast-reliability-review.md`) — forecast accuracy is poor or confidence is unclear.
+- **RevOps Change Control** (`packs/12-revenue-operations/skills/revops-change-control.md`) — process or system changes need governance without slowing revenue work.
+- **GTM Thesis Builder** (`packs/13-gtm-strategy/skills/gtm-thesis-builder.md`) — a company needs a coherent go-to-market thesis before executing tactics.
+- **ICP Focus Check** (`packs/13-gtm-strategy/skills/icp-focus-check.md`) — pipeline or product messaging is scattered across too many buyer types.
+- **Channel Fit Evaluator** (`packs/13-gtm-strategy/skills/channel-fit-evaluator.md`) — a team needs to choose channels based on buyer behavior and economics.
+- **GTM Operating Plan** (`packs/13-gtm-strategy/skills/gtm-operating-plan.md`) — strategy needs translation into near-term execution.
+- **Automation Opportunity Scan** (`packs/14-automation-architecture/skills/automation-opportunity-scan.md`) — a workflow may benefit from automation but the target is unclear.
+- **Human-in-the-Loop Design** (`packs/14-automation-architecture/skills/human-in-the-loop-design.md`) — automation needs review gates and safe escalation rather than full autonomy.
+- **Automation ROI Brief** (`packs/14-automation-architecture/skills/automation-roi-brief.md`) — a proposed automation needs business justification.
+- **Agent Workflow Spec** (`packs/14-automation-architecture/skills/agent-workflow-spec.md`) — a human workflow needs conversion into an agent-executable process.
+- **AI Use Case Qualification** (`packs/15-building-ai-products/skills/ai-use-case-qualification.md`) — a product idea uses AI and needs validation beyond novelty.
+- **Model Behavior Evaluation Plan** (`packs/15-building-ai-products/skills/model-behavior-evaluation-plan.md`) — an AI feature needs evaluation criteria before launch.
+- **AI Product Risk Review** (`packs/15-building-ai-products/skills/ai-product-risk-review.md`) — an AI capability may create trust, safety, legal, or UX risk.
+- **AI Feature Launch Plan** (`packs/15-building-ai-products/skills/ai-feature-launch-plan.md`) — an AI product feature is ready for staged rollout.
+- **Activation Path Audit** (`packs/16-product-led-growth/skills/activation-path-audit.md`) — users sign up but do not reach meaningful value quickly.
+- **Self-Serve Conversion Map** (`packs/16-product-led-growth/skills/self-serve-conversion-map.md`) — free or trial users need a clearer path to paid conversion.
+- **Product-Qualified Signal Design** (`packs/16-product-led-growth/skills/product-qualified-signal-design.md`) — sales or success needs better product-led account signals.
+- **PLG Experiment Brief** (`packs/16-product-led-growth/skills/plg-experiment-brief.md`) — a growth experiment needs tight framing and learning value.
+- **Growth Loop Mapper** (`packs/17-growth-systems/skills/growth-loop-mapper.md`) — growth work is tactic-heavy and needs a compounding loop model.
+- **Experiment Portfolio Review** (`packs/17-growth-systems/skills/experiment-portfolio-review.md`) — growth experiments lack balance across risk, time horizon, and learning.
+- **Retention Leverage Scan** (`packs/17-growth-systems/skills/retention-leverage-scan.md`) — growth is leaking because retention or repeat usage is weak.
+- **Compounding Channel Evaluator** (`packs/17-growth-systems/skills/compounding-channel-evaluator.md`) — a team needs channels that improve with use rather than reset each period.
+- **Founder Leverage Audit** (`packs/18-founder-mode/skills/founder-leverage-audit.md`) — a founder is involved everywhere and needs to separate leverage from bottleneck behavior.
+- **Founder Context Capture** (`packs/18-founder-mode/skills/founder-context-capture.md`) — critical context lives in the founder’s head and needs transfer without bureaucracy.
+- **Founder Decision Rights Reset** (`packs/18-founder-mode/skills/founder-decision-rights-reset.md`) — the founder must stay close to key calls while letting the org operate.
+- **Scaling Founder Rituals** (`packs/18-founder-mode/skills/scaling-founder-rituals.md`) — founder involvement needs intentional rituals instead of random intervention.
+- **Internal Tool Opportunity Map** (`packs/19-builder-shift/skills/internal-tool-opportunity-map.md`) — operators see repeated manual work that could become internal tooling.
+- **Operator to Builder Spec** (`packs/19-builder-shift/skills/operator-to-builder-spec.md`) — a non-engineering operator needs to specify a tool clearly enough to build or delegate.
+- **Prototype Scope Cutter** (`packs/19-builder-shift/skills/prototype-scope-cutter.md`) — an internal build should start small enough to validate fast.
+- **Builder Adoption Plan** (`packs/19-builder-shift/skills/builder-adoption-plan.md`) — an internal tool needs adoption, support, and iteration planning.
+- **AI Capability Map** (`packs/20-ai-augmented-company/skills/ai-capability-map.md`) — a company wants to identify where AI changes work, not just tools.
+- **Team AI Readiness Review** (`packs/20-ai-augmented-company/skills/team-ai-readiness-review.md`) — teams vary in skill, workflow clarity, and appetite for AI adoption.
+- **AI Operating Policy Draft** (`packs/20-ai-augmented-company/skills/ai-operating-policy-draft.md`) — AI use needs practical rules that enable work while controlling risk.
+- **AI Transformation Roadmap** (`packs/20-ai-augmented-company/skills/ai-transformation-roadmap.md`) — AI initiatives need sequencing and ownership across the company.
+- **AI-Era Role Redesign** (`packs/21-ai-org-design/skills/ai-era-role-redesign.md`) — roles need to change as agents automate tasks and expand operator leverage.
+- **Agent-Human Boundary Map** (`packs/21-ai-org-design/skills/agent-human-boundary-map.md`) — work needs clear division between agents, humans, and systems.
+- **AI Governance Cadence** (`packs/21-ai-org-design/skills/ai-governance-cadence.md`) — AI work needs review without blocking experimentation.
+- **Org Capability Shift Plan** (`packs/21-ai-org-design/skills/org-capability-shift-plan.md`) — the organization needs new skills, norms, and structures for AI-native work.
+- **Integration Boundary Audit** (`packs/22-full-stack-company/skills/integration-boundary-audit.md`) — a company is deciding what to own, partner for, or buy.
+- **Control Point Map** (`packs/22-full-stack-company/skills/control-point-map.md`) — strategic leverage depends on owning specific parts of the stack.
+- **Build Buy Partner Brief** (`packs/22-full-stack-company/skills/build-buy-partner-brief.md`) — a capability decision requires tradeoff clarity.
+- **Vertical Integration Roadmap** (`packs/22-full-stack-company/skills/vertical-integration-roadmap.md`) — integration should happen in stages rather than one large bet.
+- **Category Context Map** (`packs/23-positioning/skills/category-context-map.md`) — a product needs clearer market context and competitive frame.
+- **Positioning Statement Builder** (`packs/23-positioning/skills/positioning-statement-builder.md`) — a team needs a crisp positioning statement grounded in customer value.
+- **Proof Point Inventory** (`packs/23-positioning/skills/proof-point-inventory.md`) — claims need evidence before becoming external messaging.
+- **Message Confusion Audit** (`packs/23-positioning/skills/message-confusion-audit.md`) — sales, marketing, or product pages are saying different things.
+- **Pipeline Inspection Routine** (`packs/24-sales-management/skills/pipeline-inspection-routine.md`) — a sales manager needs to inspect pipeline quality without micromanaging reps.
+- **Rep Coaching Plan** (`packs/24-sales-management/skills/rep-coaching-plan.md`) — a rep needs targeted coaching based on evidence, not vibes.
+- **Forecast Call Prep** (`packs/24-sales-management/skills/forecast-call-prep.md`) — forecast meetings need cleaner evidence and commitments.
+- **Sales Operating Cadence** (`packs/24-sales-management/skills/sales-operating-cadence.md`) — sales team rituals need to connect coaching, pipeline, forecast, and learning.
+- **Company Operating Model Map** (`packs/25-great-coo/skills/company-operating-model-map.md`) — a COO needs to understand how strategy becomes execution across the company.
+- **Cross-Functional Issue Room** (`packs/25-great-coo/skills/cross-functional-issue-room.md`) — a recurring issue crosses teams and needs a structured resolution process.
+- **Execution Risk Register** (`packs/25-great-coo/skills/execution-risk-register.md`) — operational risks need visibility before they become missed commitments.
+- **COO Leverage Dashboard** (`packs/25-great-coo/skills/coo-leverage-dashboard.md`) — a COO needs a concise dashboard for execution health.
+- **Revealed Behavior Audit** (`packs/26-company-behavior/skills/revealed-behavior-audit.md`) — stated values do not match actual decisions and incentives.
+- **Decision Rule Extractor** (`packs/26-company-behavior/skills/decision-rule-extractor.md`) — an organization needs to name the unwritten rules driving behavior.
+- **Culture Operating Gap Review** (`packs/26-company-behavior/skills/culture-operating-gap-review.md`) — culture problems may be operating system problems in disguise.
+- **Behavior Change Lever Map** (`packs/26-company-behavior/skills/behavior-change-lever-map.md`) — leaders need to change behavior through incentives, defaults, and constraints.
+- **Change Readiness Scan** (`packs/27-change-adoption/skills/change-readiness-scan.md`) — a change is being planned and adoption risk is unclear.
+- **Announcement to Adoption Plan** (`packs/27-change-adoption/skills/announcement-to-adoption-plan.md`) — a change needs an adoption system beyond a launch message.
+- **Resistance Diagnosis** (`packs/27-change-adoption/skills/resistance-diagnosis.md`) — people are resisting a change and leaders need to know why.
+- **Change Embedding Review** (`packs/27-change-adoption/skills/change-embedding-review.md`) — a change has launched but may not stick.
+- **Influence Network Map** (`packs/28-power-map/skills/influence-network-map.md`) — formal org charts do not explain how work actually moves.
+- **Power Risk Review** (`packs/28-power-map/skills/power-risk-review.md`) — a plan may fail because it ignores incentives, status, or control points.
+- **Coalition Building Plan** (`packs/28-power-map/skills/coalition-building-plan.md`) — an initiative needs support before formal approval.
+- **Political Friction Diagnosis** (`packs/28-power-map/skills/political-friction-diagnosis.md`) — work is stuck for reasons that are not visible in project plans.
+- **Executive Memo Builder** (`packs/29-executive-communication/skills/executive-memo-builder.md`) — a decision or strategy needs executive-level clarity in writing.
+- **Narrative Arc Review** (`packs/29-executive-communication/skills/narrative-arc-review.md`) — an executive narrative feels scattered or fails to create alignment.
+- **Escalation Memo Shaper** (`packs/29-executive-communication/skills/escalation-memo-shaper.md`) — a hard issue needs escalation without drama or blame.
+- **Executive Update Compressor** (`packs/29-executive-communication/skills/executive-update-compressor.md`) — an update needs to be shorter, sharper, and more decision-oriented.
+- **Company Signal Brief** (`packs/30-internal-communication/skills/company-signal-brief.md`) — a company message needs to move context without noise.
+- **Decision Log Entry** (`packs/30-internal-communication/skills/decision-log-entry.md`) — a decision needs to be remembered and searchable after the meeting ends.
+- **Communication Channel Audit** (`packs/30-internal-communication/skills/communication-channel-audit.md`) — messages are scattered across too many channels or rituals.
+- **Context Package Builder** (`packs/30-internal-communication/skills/context-package-builder.md`) — teams need enough context to act without repeated meetings.
+- **Agency Gap Diagnosis** (`packs/31-agency/skills/agency-gap-diagnosis.md`) — someone is stuck waiting, blaming constraints, or under-defining the next move.
+- **Constraint Reframe Drill** (`packs/31-agency/skills/constraint-reframe-drill.md`) — a blocker needs conversion into options under constraints.
+- **Owner Mindset Plan** (`packs/31-agency/skills/owner-mindset-plan.md`) — a person needs to move from task execution to outcome ownership.
+- **High-Agency Retrospective** (`packs/31-agency/skills/high-agency-retrospective.md`) — a completed effort should be reviewed for agency lessons.
+- **Reality Contact Audit** (`packs/32-live-player/skills/reality-contact-audit.md`) — a person or team may be relying on stale assumptions instead of current reality.
+- **Assumption Refresh Loop** (`packs/32-live-player/skills/assumption-refresh-loop.md`) — strategic assumptions need regular testing and updating.
+- **Live Option Generator** (`packs/32-live-player/skills/live-option-generator.md`) — a situation needs creative moves beyond inherited playbooks.
+- **Field Signal Review** (`packs/32-live-player/skills/field-signal-review.md`) — frontline signals need conversion into strategy or operating changes.
+- **BizOps Problem Framing** (`packs/33-bizops/skills/bizops-problem-framing.md`) — a messy business problem needs structure before analysis.
+- **Decision Support Model Spec** (`packs/33-bizops/skills/decision-support-model-spec.md`) — a business decision needs a simple model or scenario analysis.
+- **Operational Deep Dive Plan** (`packs/33-bizops/skills/operational-deep-dive-plan.md`) — an area of the business needs investigation across data and workflows.
+- **Recommendation Memo Builder** (`packs/33-bizops/skills/recommendation-memo-builder.md`) — analysis needs translation into a decision recommendation.
+- **Strategy to Work Map** (`packs/34-strategy-execution/skills/strategy-to-work-map.md`) — strategy needs translation into initiatives, owners, metrics, and decisions.
+- **Initiative Priority Check** (`packs/34-strategy-execution/skills/initiative-priority-check.md`) — too many initiatives compete for the same capacity.
+- **Execution Dependency Map** (`packs/34-strategy-execution/skills/execution-dependency-map.md`) — delivery depends on cross-functional work that is not visible enough.
+- **Strategy Review Cadence** (`packs/34-strategy-execution/skills/strategy-review-cadence.md`) — strategy execution needs a review rhythm that learns and adjusts.
+- **Technical Decision Brief** (`packs/35-technical-taste/skills/technical-decision-brief.md`) — a non-engineering leader needs to understand a technical tradeoff.
+- **Architecture Risk Scan** (`packs/35-technical-taste/skills/architecture-risk-scan.md`) — a product or business plan has hidden technical risks.
+- **Technical Taste Review** (`packs/35-technical-taste/skills/technical-taste-review.md`) — a leader needs to judge whether a technical proposal has good taste and pragmatism.
+- **AI Code Review Context Pack** (`packs/35-technical-taste/skills/ai-code-review-context-pack.md`) — an operator wants an AI agent to review code with business context.
+- **Idea to Draft Pipeline** (`packs/36-publishing-knowledge-systems/skills/idea-to-draft-pipeline.md`) — raw ideas need a reliable path into publishable drafts.
+- **Editorial Calendar Builder** (`packs/36-publishing-knowledge-systems/skills/editorial-calendar-builder.md`) — publishing needs sequencing across themes, cadence, and capacity.
+- **Knowledge Asset Inventory** (`packs/36-publishing-knowledge-systems/skills/knowledge-asset-inventory.md`) — notes and drafts need organization into reusable intellectual assets.
+- **Publishing Quality Gate** (`packs/36-publishing-knowledge-systems/skills/publishing-quality-gate.md`) — a draft needs review before publication or scheduling.
+- **Operator Scope Map** (`packs/37-individual-operator/skills/operator-scope-map.md`) — an IC needs to expand from assigned tasks to owned outcomes.
+- **Work Legibility Update** (`packs/37-individual-operator/skills/work-legibility-update.md`) — important work needs to be visible to leadership without performative noise.
+- **Autonomy Readiness Plan** (`packs/37-individual-operator/skills/autonomy-readiness-plan.md`) — someone wants more autonomy and needs to show judgment, reliability, and context.
+- **Operator Retrospective** (`packs/37-individual-operator/skills/operator-retrospective.md`) — an IC wants to learn from a project as an operator rather than just a contributor.
+- **Legibility Audit** (`packs/38-legibility-operator/skills/legibility-audit.md`) — work, decisions, or risks are hard for others to see and trust.
+- **Strategic Illegibility Check** (`packs/38-legibility-operator/skills/strategic-illegibility-check.md`) — some work may need privacy or ambiguity without becoming unaccountable.
+- **Visibility System Design** (`packs/38-legibility-operator/skills/visibility-system-design.md`) — a team needs visibility that reduces confusion without creating reporting theater.
+- **Legible Decision Package** (`packs/38-legibility-operator/skills/legible-decision-package.md`) — a decision needs enough context for others to understand and support it.
+- **AI-Native Buyer Journey Map** (`packs/39-ai-native-gtm/skills/ai-native-buyer-journey-map.md`) — AI changes how buyers discover, evaluate, and purchase a product.
+- **Agentic Sales Workflow Spec** (`packs/39-ai-native-gtm/skills/agentic-sales-workflow-spec.md`) — sales work needs redesign around agents, automation, and human judgment.
+- **GTM Data Readiness Scan** (`packs/39-ai-native-gtm/skills/gtm-data-readiness-scan.md`) — AI-native GTM depends on clean, accessible, governed data.
+- **AI-Native Campaign System** (`packs/39-ai-native-gtm/skills/ai-native-campaign-system.md`) — campaigns need personalization and iteration through AI-enabled workflows.

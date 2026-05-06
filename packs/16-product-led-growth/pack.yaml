@@ -1,0 +1,21 @@
+id: "product-led-growth"
+series_number: 16
+name: "PLG Operating Pack"
+slug: "product-led-growth"
+source_series_name: "Product-Led Growth"
+ghost_tag: "product-led-growth"
+source_path: null
+source_plan: null
+skills:
+  - id: "activation-path-audit"
+    name: "Activation Path Audit"
+    path: "skills/activation-path-audit.md"
+  - id: "self-serve-conversion-map"
+    name: "Self-Serve Conversion Map"
+    path: "skills/self-serve-conversion-map.md"
+  - id: "product-qualified-signal-design"
+    name: "Product-Qualified Signal Design"
+    path: "skills/product-qualified-signal-design.md"
+  - id: "plg-experiment-brief"
+    name: "PLG Experiment Brief"
+    path: "skills/plg-experiment-brief.md"

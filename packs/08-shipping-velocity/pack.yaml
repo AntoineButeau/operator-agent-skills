@@ -1,0 +1,21 @@
+id: "shipping-velocity"
+series_number: 8
+name: "Shipping System Pack"
+slug: "shipping-velocity"
+source_series_name: "Shipping Velocity / How Teams Actually Ship Faster"
+ghost_tag: "shipping-velocity"
+source_path: null
+source_plan: null
+skills:
+  - id: "shipping-delay-audit"
+    name: "Shipping Delay Audit"
+    path: "skills/shipping-delay-audit.md"
+  - id: "scope-slicer"
+    name: "Scope Slicer"
+    path: "skills/scope-slicer.md"
+  - id: "rework-root-cause-review"
+    name: "Rework Root Cause Review"
+    path: "skills/rework-root-cause-review.md"
+  - id: "quality-speed-tradeoff-check"
+    name: "Quality-Speed Tradeoff Check"
+    path: "skills/quality-speed-tradeoff-check.md"
