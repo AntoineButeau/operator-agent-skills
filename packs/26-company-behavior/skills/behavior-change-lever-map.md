@@ -6,7 +6,7 @@ Use this workflow when leaders need to change behavior through incentives, defau
 ## Inputs
 - Primary objective or decision to support
 - target behavior, current behavior, blockers, rewards
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, executives, managers, operators, and culture carriers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a lever map and intervention plan. Include the decision, owner, next action, rev
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Behavior Change Lever Map workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Behavior Change Lever Map workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

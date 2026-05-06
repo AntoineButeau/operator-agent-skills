@@ -15,8 +15,16 @@ Use this pack when the work relates to revenue operations and needs an operator-
 - [Forecast Reliability Review](skills/forecast-reliability-review.md)
 - [RevOps Change Control](skills/revops-change-control.md)
 
+## Example
+- [Pack example](../../examples/by-pack/revenue-operations.md)
+
 ## Related Ghost tag
 `revenue-operations`
+
+## Ghost backlinks
+- Related Ghost tag: `revenue-operations`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `revenue-operations-series/`

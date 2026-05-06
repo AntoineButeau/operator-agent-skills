@@ -6,7 +6,7 @@ Use this workflow when formal org charts do not explain how work actually moves.
 ## Inputs
 - Primary objective or decision to support
 - stakeholders, decisions, informal advisors, blockers
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, decision makers, influencers, blockers, and operators, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ an influence map. Include the decision, owner, next action, review date, and ope
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Influence Network Map workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Influence Network Map workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

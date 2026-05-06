@@ -4,6 +4,8 @@ name: "AI Product Pack"
 slug: "building-ai-products"
 source_series_name: "Building AI Products"
 ghost_tag: "building-ai-products"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "building-ai-products-series/"
 source_plan: "building-ai-products-series/series-plan.md"
 skills:

@@ -5,8 +5,8 @@ Use this workflow when manager entering a new team needs to understand people, p
 
 ## Inputs
 - Primary objective or decision to support
-- team roster, role expectations, current goals, recent misses, stakeholder list
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- team roster, role expectations, current goals, recent misses, direct reports, peer managers, and senior leaders list
+- Known constraints, deadlines, direct reports, peer managers, and senior leaders, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a 30/60/90 operating brief with risks, trust moves, and decision calendar. Inclu
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the First 90 Days Manager Diagnostic workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the First 90 Days Manager Diagnostic workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

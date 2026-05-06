@@ -6,7 +6,7 @@ Use this workflow when someone is stuck waiting, blaming constraints, or under-d
 ## Inputs
 - Primary objective or decision to support
 - goal, blockers, attempted actions, authority limits
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, operator, manager, customer, and delivery partners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ an agency gap diagnosis and next moves. Include the decision, owner, next action
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Agency Gap Diagnosis workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Agency Gap Diagnosis workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

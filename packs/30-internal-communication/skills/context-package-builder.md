@@ -6,7 +6,7 @@ Use this workflow when teams need enough context to act without repeated meeting
 ## Inputs
 - Primary objective or decision to support
 - initiative, background, decisions, owner, open questions
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, employees, managers, operators, and communication owners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a context package. Include the decision, owner, next action, review date, and op
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Context Package Builder workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Context Package Builder workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

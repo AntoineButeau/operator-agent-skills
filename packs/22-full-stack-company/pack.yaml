@@ -4,6 +4,8 @@ name: "Vertical Integration Pack"
 slug: "full-stack-company"
 source_series_name: "The Full-Stack Company: Vertical Integration in the AI Era"
 ghost_tag: "full-stack-company"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "full-stack-company-series/"
 source_plan: "full-stack-company-series/series-plan.md"
 skills:

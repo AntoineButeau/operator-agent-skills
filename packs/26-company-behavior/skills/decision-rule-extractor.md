@@ -6,7 +6,7 @@ Use this workflow when an organization needs to name the unwritten rules driving
 ## Inputs
 - Primary objective or decision to support
 - decision history, exceptions, stories, repeated conflicts
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, executives, managers, operators, and culture carriers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a set of explicit decision rules. Include the decision, owner, next action, revi
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Decision Rule Extractor workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Decision Rule Extractor workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

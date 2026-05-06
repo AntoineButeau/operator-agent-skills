@@ -6,7 +6,7 @@ Use this workflow when teams vary in skill, workflow clarity, and appetite for A
 ## Inputs
 - Primary objective or decision to support
 - team workflows, skills, blockers, policies
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, team leads, operators, enablement owners, and reviewers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a readiness scorecard and enablement plan. Include the decision, owner, next act
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Team AI Readiness Review workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Team AI Readiness Review workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

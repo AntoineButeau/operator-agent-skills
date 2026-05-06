@@ -6,7 +6,7 @@ Use this workflow when AI changes how buyers discover, evaluate, and purchase a 
 ## Inputs
 - Primary objective or decision to support
 - buyer roles, channels, AI tools used, sales motion
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, buyers, sellers, AI agents, RevOps owners, and customers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ an AI-native buyer journey map. Include the decision, owner, next action, review
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the AI-Native Buyer Journey Map workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the AI-Native Buyer Journey Map workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

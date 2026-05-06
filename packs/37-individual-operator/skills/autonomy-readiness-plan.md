@@ -6,7 +6,7 @@ Use this workflow when someone wants more autonomy and needs to show judgment, r
 ## Inputs
 - Primary objective or decision to support
 - current role, manager expectations, decision history
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, operator, manager, collaborators, and customers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a readiness plan and trust-building moves. Include the decision, owner, next act
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Autonomy Readiness Plan workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Autonomy Readiness Plan workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

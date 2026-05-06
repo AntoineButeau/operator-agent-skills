@@ -4,6 +4,8 @@ name: "Change Adoption Pack"
 slug: "change-adoption"
 source_series_name: "Change That Actually Takes: How Companies Move From Announcement to Adoption"
 ghost_tag: "change-that-takes"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "change-that-takes-series/"
 source_plan: "change-that-takes-series/series-plan.md"
 skills:

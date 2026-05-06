@@ -4,6 +4,8 @@ name: "Legibility Operator Pack"
 slug: "legibility-operator"
 source_series_name: "Legibility and Illegibility for Operators"
 ghost_tag: "legibility-illegibility"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "legibility-illegibility-operators-series/"
 source_plan: "legibility-illegibility-operators-series/series-plan.md"
 skills:

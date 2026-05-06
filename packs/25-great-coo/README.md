@@ -15,8 +15,16 @@ Use this pack when the work relates to how to be a great coo: the operating syst
 - [Execution Risk Register](skills/execution-risk-register.md)
 - [COO Leverage Dashboard](skills/coo-leverage-dashboard.md)
 
+## Example
+- [Pack example](../../examples/by-pack/great-coo.md)
+
 ## Related Ghost tag
 `great-coo`
+
+## Ghost backlinks
+- Related Ghost tag: `great-coo`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `great-coo-series/`

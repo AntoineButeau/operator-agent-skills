@@ -6,7 +6,7 @@ Use this workflow when a team needs to know whether to move fast, gather evidenc
 ## Inputs
 - Primary objective or decision to support
 - decision, reversibility, stakes, deadline, uncertainty
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, decision owners, affected teams, and reviewers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a decision type, process recommendation, and owner. Include the decision, owner,
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Decision Type Classifier workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Decision Type Classifier workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

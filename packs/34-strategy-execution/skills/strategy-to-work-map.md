@@ -6,7 +6,7 @@ Use this workflow when strategy needs translation into initiatives, owners, metr
 ## Inputs
 - Primary objective or decision to support
 - strategy statement, goals, resources, constraints
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, strategy owner, operators, functional leads, and reviewers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a strategy-to-work map. Include the decision, owner, next action, review date, a
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Strategy to Work Map workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Strategy to Work Map workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

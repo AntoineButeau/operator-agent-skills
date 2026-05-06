@@ -4,6 +4,8 @@ name: "Decision Metrics Pack"
 slug: "metrics-reporting"
 source_series_name: "Goals / Metrics / Dashboards / Reporting"
 ghost_tag: "metrics-reporting"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "ghost-draft-task/metrics-reporting-series/"
 source_plan: "staging/content-series-goals-metrics-dashboards-reporting.md"
 skills:

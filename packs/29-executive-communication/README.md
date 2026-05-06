@@ -15,8 +15,16 @@ Use this pack when the work relates to executive communication that creates clar
 - [Escalation Memo Shaper](skills/escalation-memo-shaper.md)
 - [Executive Update Compressor](skills/executive-update-compressor.md)
 
+## Example
+- [Pack example](../../examples/by-pack/executive-communication.md)
+
 ## Related Ghost tag
 `executive-communication`
+
+## Ghost backlinks
+- Related Ghost tag: `executive-communication`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `executive-communication-series/`

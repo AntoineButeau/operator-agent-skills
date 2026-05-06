@@ -15,8 +15,16 @@ Use this pack when the work relates to expert manager and needs an operator-grad
 - [One-on-One System Designer](skills/one-on-one-system-designer.md)
 - [Decision Journal Coach](skills/decision-journal-coach.md)
 
+## Example
+- [Pack example](../../examples/by-pack/expert-manager.md)
+
 ## Related Ghost tag
 `expert-manager`
+
+## Ghost backlinks
+- Related Ghost tag: `expert-manager`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `ghost-draft-task/expert-manager-series/`

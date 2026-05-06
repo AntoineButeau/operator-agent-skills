@@ -15,5 +15,13 @@ Use this pack when the work relates to positioning and needs an operator-grade w
 - [Proof Point Inventory](skills/proof-point-inventory.md)
 - [Message Confusion Audit](skills/message-confusion-audit.md)
 
+## Example
+- [Pack example](../../examples/by-pack/positioning.md)
+
 ## Related Ghost tag
 `positioning`
+## Ghost backlinks
+- Related Ghost tag: `positioning`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
+

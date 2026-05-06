@@ -15,8 +15,16 @@ Use this pack when the work relates to ai-native gtm and needs an operator-grade
 - [GTM Data Readiness Scan](skills/gtm-data-readiness-scan.md)
 - [AI-Native Campaign System](skills/ai-native-campaign-system.md)
 
+## Example
+- [Pack example](../../examples/by-pack/ai-native-gtm.md)
+
 ## Related Ghost tag
 `ai-native-gtm`
+
+## Ghost backlinks
+- Related Ghost tag: `ai-native-gtm`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `ai-native-gtm-series/`

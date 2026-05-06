@@ -15,8 +15,16 @@ Use this pack when the work relates to pricing and packaging and needs an operat
 - [Discount Signal Analysis](skills/discount-signal-analysis.md)
 - [Pricing Change Rollout](skills/pricing-change-rollout.md)
 
+## Example
+- [Pack example](../../examples/by-pack/pricing-packaging.md)
+
 ## Related Ghost tag
 `pricing-packaging`
+
+## Ghost backlinks
+- Related Ghost tag: `pricing-packaging`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `pricing-packaging-series/`

@@ -6,7 +6,7 @@ Use this workflow when a capability decision requires tradeoff clarity.
 ## Inputs
 - Primary objective or decision to support
 - capability, urgency, cost, strategic value, talent
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, customers, operators, product teams, and delivery partners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a build/buy/partner decision memo. Include the decision, owner, next action, rev
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Build Buy Partner Brief workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Build Buy Partner Brief workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

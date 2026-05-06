@@ -15,5 +15,13 @@ Use this pack when the work relates to automation / ai automation architecture a
 - [Automation ROI Brief](skills/automation-roi-brief.md)
 - [Agent Workflow Spec](skills/agent-workflow-spec.md)
 
+## Example
+- [Pack example](../../examples/by-pack/automation-architecture.md)
+
 ## Related Ghost tag
 `automation`
+## Ghost backlinks
+- Related Ghost tag: `automation`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
+

@@ -15,8 +15,16 @@ Use this pack when the work relates to goals / metrics / dashboards / reporting 
 - [Weekly Report Upgrade](skills/weekly-report-upgrade.md)
 - [Metric Owner Map](skills/metric-owner-map.md)
 
+## Example
+- [Pack example](../../examples/by-pack/metrics-reporting.md)
+
 ## Related Ghost tag
 `metrics-reporting`
+
+## Ghost backlinks
+- Related Ghost tag: `metrics-reporting`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `ghost-draft-task/metrics-reporting-series/`

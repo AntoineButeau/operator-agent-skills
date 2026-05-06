@@ -6,7 +6,7 @@ Use this workflow when the company is considering international expansion and ne
 ## Inputs
 - Primary objective or decision to support
 - product readiness, support model, sales motion, legal constraints
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, regional customers, local operators, sellers, and partners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a readiness assessment and launch prerequisites. Include the decision, owner, ne
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the International GTM Readiness workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the International GTM Readiness workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

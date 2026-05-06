@@ -15,8 +15,16 @@ Use this pack when the work relates to organizational design and needs an operat
 - [Handoff Friction Map](skills/handoff-friction-map.md)
 - [Role Clarity Redesign](skills/role-clarity-redesign.md)
 
+## Example
+- [Pack example](../../examples/by-pack/organizational-design.md)
+
 ## Related Ghost tag
 `organizational-design`
+
+## Ghost backlinks
+- Related Ghost tag: `organizational-design`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `organizational-design-series/`

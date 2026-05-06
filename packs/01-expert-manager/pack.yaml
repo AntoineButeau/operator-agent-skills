@@ -4,6 +4,8 @@ name: "Manager Operating System Pack"
 slug: "expert-manager"
 source_series_name: "Expert Manager"
 ghost_tag: "expert-manager"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "ghost-draft-task/expert-manager-series/"
 source_plan: "ghost-draft-task/expert-manager-series/series-plan.md"
 skills:

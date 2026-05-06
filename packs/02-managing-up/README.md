@@ -15,8 +15,16 @@ Use this pack when the work relates to managing up and needs an operator-grade w
 - [Escalation Judgment Check](skills/escalation-judgment-check.md)
 - [Priority Reading Map](skills/priority-reading-map.md)
 
+## Example
+- [Pack example](../../examples/by-pack/managing-up.md)
+
 ## Related Ghost tag
 `managing-up`
+
+## Ghost backlinks
+- Related Ghost tag: `managing-up`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `managing-up-series/`

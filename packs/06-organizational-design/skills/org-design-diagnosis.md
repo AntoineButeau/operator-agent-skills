@@ -6,7 +6,7 @@ Use this workflow when teams are slow, confused, duplicated, or misaligned and s
 ## Inputs
 - Primary objective or decision to support
 - org chart, goals, handoffs, conflict points, decision rights
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, team leads, role owners, and cross-functional partners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ an org design diagnosis with structural hypotheses. Include the decision, owner,
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Org Design Diagnosis workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Org Design Diagnosis workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

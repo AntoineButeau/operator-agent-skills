@@ -6,7 +6,7 @@ Use this workflow when leads, opportunities, or customers lose momentum between 
 ## Inputs
 - Primary objective or decision to support
 - handoff points, SLAs, artifacts, ownership rules
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, marketing, sales, success, finance, and RevOps owners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a handoff map and operating agreements. Include the decision, owner, next action
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the GTM Handoff Map workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the GTM Handoff Map workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

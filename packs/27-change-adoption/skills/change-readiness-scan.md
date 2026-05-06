@@ -6,7 +6,7 @@ Use this workflow when a change is being planned and adoption risk is unclear.
 ## Inputs
 - Primary objective or decision to support
 - change, affected groups, incentives, workload, history
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, change sponsor, managers, frontline teams, and adoption owners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a readiness assessment and adoption risks. Include the decision, owner, next act
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Change Readiness Scan workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Change Readiness Scan workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

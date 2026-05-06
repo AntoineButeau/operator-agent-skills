@@ -4,6 +4,8 @@ name: "Judgment System Pack"
 slug: "decision-making-systems-thinking"
 source_series_name: "Decision Making & Systems Thinking"
 ghost_tag: "decision-making-systems-thinking"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "decision-making-systems-thinking-series/"
 source_plan: "decision-making-systems-thinking-series/series-plan.md"
 skills:

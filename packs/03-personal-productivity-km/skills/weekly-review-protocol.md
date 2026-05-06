@@ -6,7 +6,7 @@ Use this workflow when tasks, notes, and commitments are decaying because the re
 ## Inputs
 - Primary objective or decision to support
 - calendar, task lists, note inboxes, active projects
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, future self, collaborators, and review partners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a 30-minute weekly review checklist and reset plan. Include the decision, owner,
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Weekly Review Protocol workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Weekly Review Protocol workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

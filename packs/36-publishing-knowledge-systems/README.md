@@ -15,8 +15,16 @@ Use this pack when the work relates to publishing & knowledge systems and needs 
 - [Knowledge Asset Inventory](skills/knowledge-asset-inventory.md)
 - [Publishing Quality Gate](skills/publishing-quality-gate.md)
 
+## Example
+- [Pack example](../../examples/by-pack/publishing-knowledge-systems.md)
+
 ## Related Ghost tag
 `publishing-knowledge-systems`
+
+## Ghost backlinks
+- Related Ghost tag: `publishing-knowledge-systems`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `publishing-knowledge-systems-series/`

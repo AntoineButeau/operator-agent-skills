@@ -15,5 +15,13 @@ Use this pack when the work relates to founder mode that actually scales and nee
 - [Founder Decision Rights Reset](skills/founder-decision-rights-reset.md)
 - [Scaling Founder Rituals](skills/scaling-founder-rituals.md)
 
+## Example
+- [Pack example](../../examples/by-pack/founder-mode.md)
+
 ## Related Ghost tag
 `founder-mode`
+## Ghost backlinks
+- Related Ghost tag: `founder-mode`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
+

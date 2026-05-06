@@ -4,6 +4,8 @@ name: "Individual Operator Pack"
 slug: "individual-operator"
 source_series_name: "From Individual Contributor to Individual Operator"
 ghost_tag: "individual-operator"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "individual-operator-series/"
 source_plan: "individual-operator-series/series-plan.md"
 skills:

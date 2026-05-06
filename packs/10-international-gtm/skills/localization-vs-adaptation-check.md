@@ -6,7 +6,7 @@ Use this workflow when a market requires more than translation but the required 
 ## Inputs
 - Primary objective or decision to support
 - product, buyer behavior, regulation, cultural norms
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, regional customers, local operators, sellers, and partners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ an adaptation requirement map. Include the decision, owner, next action, review 
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Localization vs Adaptation Check workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Localization vs Adaptation Check workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

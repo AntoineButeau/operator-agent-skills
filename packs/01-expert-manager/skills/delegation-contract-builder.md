@@ -6,7 +6,7 @@ Use this workflow when work needs to move from manager-owned to team-owned witho
 ## Inputs
 - Primary objective or decision to support
 - task or domain, owner, quality bar, decision rights, escalation triggers
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, direct reports, peer managers, and senior leaders, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a delegation contract with ownership boundaries and review cadence. Include the 
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Delegation Contract Builder workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Delegation Contract Builder workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

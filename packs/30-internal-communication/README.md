@@ -15,8 +15,16 @@ Use this pack when the work relates to internal communication that actually work
 - [Communication Channel Audit](skills/communication-channel-audit.md)
 - [Context Package Builder](skills/context-package-builder.md)
 
+## Example
+- [Pack example](../../examples/by-pack/internal-communication.md)
+
 ## Related Ghost tag
 `internal-communication`
+
+## Ghost backlinks
+- Related Ghost tag: `internal-communication`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `internal-communication-series/`

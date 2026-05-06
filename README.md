@@ -16,6 +16,8 @@ These are practical workflow specifications for agents and operators. They are i
 - `manifest.json` — machine-readable registry
 
 ## How to use
+Start with [START_HERE.md](START_HERE.md) if you want a role/workflow route before opening individual packs.
+
 1. Pick the pack that matches the operating domain.
 2. Open the skill that matches the immediate job.
 3. Paste the skill into an agent prompt with the current context, or adapt it into a runtime-specific skill format.

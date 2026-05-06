@@ -6,7 +6,7 @@ Use this workflow when an IC wants to learn from a project as an operator rather
 ## Inputs
 - Primary objective or decision to support
 - project, outcome, choices, stakeholders, misses
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, operator, manager, collaborators, and customers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a retrospective and operating lessons. Include the decision, owner, next action,
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Operator Retrospective workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Operator Retrospective workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

@@ -15,5 +15,13 @@ Use this pack when the work relates to power that actually moves work and needs 
 - [Coalition Building Plan](skills/coalition-building-plan.md)
 - [Political Friction Diagnosis](skills/political-friction-diagnosis.md)
 
+## Example
+- [Pack example](../../examples/by-pack/power-map.md)
+
 ## Related Ghost tag
 `power`
+## Ghost backlinks
+- Related Ghost tag: `power`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
+

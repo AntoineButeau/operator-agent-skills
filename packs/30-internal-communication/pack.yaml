@@ -4,6 +4,8 @@ name: "Company Signal Pack"
 slug: "internal-communication"
 source_series_name: "Internal Communication That Actually Works: How Companies Move Context, Decisions, and Signal Without Drowning in Noise"
 ghost_tag: "internal-communication"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "internal-communication-series/"
 source_plan: "internal-communication-series/series-plan.md"
 skills:

@@ -15,8 +15,16 @@ Use this pack when the work relates to how companies actually behave: operating 
 - [Culture Operating Gap Review](skills/culture-operating-gap-review.md)
 - [Behavior Change Lever Map](skills/behavior-change-lever-map.md)
 
+## Example
+- [Pack example](../../examples/by-pack/company-behavior.md)
+
 ## Related Ghost tag
 `how-companies-behave`
+
+## Ghost backlinks
+- Related Ghost tag: `how-companies-behave`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `how-companies-behave-series/`

@@ -4,6 +4,8 @@ name: "RevOps System Pack"
 slug: "revenue-operations"
 source_series_name: "Revenue Operations"
 ghost_tag: "revenue-operations"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "revenue-operations-series/"
 source_plan: "revenue-operations-series/series-plan.md"
 skills:

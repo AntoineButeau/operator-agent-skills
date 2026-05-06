@@ -15,5 +15,13 @@ Use this pack when the work relates to how to be a live player and needs an oper
 - [Live Option Generator](skills/live-option-generator.md)
 - [Field Signal Review](skills/field-signal-review.md)
 
+## Example
+- [Pack example](../../examples/by-pack/live-player.md)
+
 ## Related Ghost tag
 `live-player`
+## Ghost backlinks
+- Related Ghost tag: `live-player`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
+

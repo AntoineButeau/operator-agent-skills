@@ -15,8 +15,16 @@ Use this pack when the work relates to operating cadence & management systems an
 - [Meeting System Prune](skills/meeting-system-prune.md)
 - [Cadence Health Check](skills/cadence-health-check.md)
 
+## Example
+- [Pack example](../../examples/by-pack/operating-cadence.md)
+
 ## Related Ghost tag
 `operating-cadence`
+
+## Ghost backlinks
+- Related Ghost tag: `operating-cadence`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `operating-cadence-series/`

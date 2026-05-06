@@ -6,7 +6,7 @@ Use this workflow when growth is leaking because retention or repeat usage is we
 ## Inputs
 - Primary objective or decision to support
 - cohorts, churn points, value moments, user feedback
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, customers, growth leads, analysts, and channel owners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a retention leverage brief. Include the decision, owner, next action, review dat
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Retention Leverage Scan workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Retention Leverage Scan workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

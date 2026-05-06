@@ -6,7 +6,7 @@ Use this workflow when a company needs to choose which international market to e
 ## Inputs
 - Primary objective or decision to support
 - candidate markets, demand signals, competition, localization needs
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, regional customers, local operators, sellers, and partners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a ranked market selection brief. Include the decision, owner, next action, revie
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Market Selection Scorecard workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Market Selection Scorecard workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

@@ -15,8 +15,16 @@ Use this pack when the work relates to the full-stack company: vertical integrat
 - [Build Buy Partner Brief](skills/build-buy-partner-brief.md)
 - [Vertical Integration Roadmap](skills/vertical-integration-roadmap.md)
 
+## Example
+- [Pack example](../../examples/by-pack/full-stack-company.md)
+
 ## Related Ghost tag
 `full-stack-company`
+
+## Ghost backlinks
+- Related Ghost tag: `full-stack-company`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `full-stack-company-series/`

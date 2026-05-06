@@ -4,6 +4,8 @@ name: "AI-Native GTM Pack"
 slug: "ai-native-gtm"
 source_series_name: "AI-Native GTM"
 ghost_tag: "ai-native-gtm"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "ai-native-gtm-series/"
 source_plan: "ai-native-gtm-series/series-plan.md"
 skills:

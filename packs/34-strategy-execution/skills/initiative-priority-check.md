@@ -6,7 +6,7 @@ Use this workflow when too many initiatives compete for the same capacity.
 ## Inputs
 - Primary objective or decision to support
 - initiative list, impact, effort, dependencies, strategic fit
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, strategy owner, operators, functional leads, and reviewers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a priority recommendation. Include the decision, owner, next action, review date
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Initiative Priority Check workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Initiative Priority Check workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

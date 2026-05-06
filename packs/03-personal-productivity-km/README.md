@@ -15,8 +15,16 @@ Use this pack when the work relates to personal productivity + knowledge managem
 - [Notes to Output Pipeline](skills/notes-to-output-pipeline.md)
 - [System Decay Triage](skills/system-decay-triage.md)
 
+## Example
+- [Pack example](../../examples/by-pack/personal-productivity-km.md)
+
 ## Related Ghost tag
 `productivity-km`
+
+## Ghost backlinks
+- Related Ghost tag: `productivity-km`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `productivity-km-series/`

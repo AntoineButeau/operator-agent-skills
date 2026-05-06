@@ -4,6 +4,8 @@ name: "Upward Signal Pack"
 slug: "managing-up"
 source_series_name: "Managing Up"
 ghost_tag: "managing-up"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "managing-up-series/"
 source_plan: "managing-up-series/series-plan.md"
 skills:

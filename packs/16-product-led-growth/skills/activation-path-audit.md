@@ -6,7 +6,7 @@ Use this workflow when users sign up but do not reach meaningful value quickly.
 ## Inputs
 - Primary objective or decision to support
 - onboarding flow, usage data, activation definition, drop-offs
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, users, product managers, growth leads, sellers, and success teams, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ an activation diagnosis and experiment list. Include the decision, owner, next a
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Activation Path Audit workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Activation Path Audit workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

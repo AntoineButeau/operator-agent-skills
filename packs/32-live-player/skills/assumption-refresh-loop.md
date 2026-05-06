@@ -6,7 +6,7 @@ Use this workflow when strategic assumptions need regular testing and updating.
 ## Inputs
 - Primary objective or decision to support
 - assumption list, owners, evidence sources, cadence
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, operator, allies, customers, and decision makers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ an assumption refresh loop. Include the decision, owner, next action, review dat
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Assumption Refresh Loop workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Assumption Refresh Loop workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

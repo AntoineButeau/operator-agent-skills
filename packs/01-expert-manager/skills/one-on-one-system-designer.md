@@ -6,7 +6,7 @@ Use this workflow when 1:1s are drifting into status reporting instead of coachi
 ## Inputs
 - Primary objective or decision to support
 - direct report context, current projects, growth goals, known frictions
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, direct reports, peer managers, and senior leaders, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a reusable 1:1 agenda, question bank, and follow-up system. Include the decision
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the One-on-One System Designer workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the One-on-One System Designer workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

@@ -6,7 +6,7 @@ Use this workflow when a proposed automation needs business justification.
 ## Inputs
 - Primary objective or decision to support
 - current effort, frequency, error cost, build cost
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, workflow owners, reviewers, users, and system operators, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ an ROI and feasibility memo. Include the decision, owner, next action, review da
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Automation ROI Brief workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Automation ROI Brief workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

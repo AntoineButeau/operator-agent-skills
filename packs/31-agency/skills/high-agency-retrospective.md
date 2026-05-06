@@ -6,7 +6,7 @@ Use this workflow when a completed effort should be reviewed for agency lessons.
 ## Inputs
 - Primary objective or decision to support
 - outcome, obstacles, choices, delays
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, operator, manager, customer, and delivery partners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a retrospective with agency lessons and habits. Include the decision, owner, nex
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the High-Agency Retrospective workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the High-Agency Retrospective workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

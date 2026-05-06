@@ -6,7 +6,7 @@ Use this workflow when accountability is unclear for outcomes or operating numbe
 ## Inputs
 - Primary objective or decision to support
 - metric list, owners, contributors, governance cadence
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, metric owners, decision makers, and reviewers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ an owner map with definitions and review rituals. Include the decision, owner, n
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Metric Owner Map workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Metric Owner Map workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

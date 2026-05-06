@@ -6,7 +6,7 @@ Use this workflow when a dashboard needs to help people decide, not admire numbe
 ## Inputs
 - Primary objective or decision to support
 - users, decisions, metrics, cadence, thresholds
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, metric owners, decision makers, and reviewers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a dashboard spec organized around decisions and exception handling. Include the 
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Decision Dashboard Brief workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Decision Dashboard Brief workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

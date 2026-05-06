@@ -6,7 +6,7 @@ Use this workflow when a non-engineering leader needs to understand a technical 
 ## Inputs
 - Primary objective or decision to support
 - decision, options, constraints, risks, team recommendation
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, engineers, product leaders, operators, and technical reviewers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a plain-English technical decision brief. Include the decision, owner, next acti
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Technical Decision Brief workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Technical Decision Brief workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

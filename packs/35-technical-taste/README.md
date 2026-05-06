@@ -15,5 +15,13 @@ Use this pack when the work relates to technical literacy / technical taste and 
 - [Technical Taste Review](skills/technical-taste-review.md)
 - [AI Code Review Context Pack](skills/ai-code-review-context-pack.md)
 
+## Example
+- [Pack example](../../examples/by-pack/technical-taste.md)
+
 ## Related Ghost tag
 `technical-literacy`
+## Ghost backlinks
+- Related Ghost tag: `technical-literacy`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
+

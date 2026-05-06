@@ -4,6 +4,8 @@ name: "Executive Leverage Pack"
 slug: "great-executive"
 source_series_name: "Being a Great Executive"
 ghost_tag: "executive"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: null
 source_plan: null
 skills:

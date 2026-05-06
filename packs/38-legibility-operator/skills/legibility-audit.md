@@ -6,7 +6,7 @@ Use this workflow when work, decisions, or risks are hard for others to see and 
 ## Inputs
 - Primary objective or decision to support
 - workstream, artifacts, stakeholders, decision history
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, operator, reviewer, team, and decision owner, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a legibility diagnosis. Include the decision, owner, next action, review date, a
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Legibility Audit workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Legibility Audit workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

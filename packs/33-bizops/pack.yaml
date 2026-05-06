@@ -4,6 +4,8 @@ name: "BizOps Decision Support Pack"
 slug: "bizops"
 source_series_name: "BizOps / Business Operations"
 ghost_tag: "bizops"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "bizops-series/"
 source_plan: "bizops-series/series-plan.md"
 skills:

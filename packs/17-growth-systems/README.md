@@ -15,8 +15,16 @@ Use this pack when the work relates to growth systems that actually compound and
 - [Retention Leverage Scan](skills/retention-leverage-scan.md)
 - [Compounding Channel Evaluator](skills/compounding-channel-evaluator.md)
 
+## Example
+- [Pack example](../../examples/by-pack/growth-systems.md)
+
 ## Related Ghost tag
 `growth-systems`
+
+## Ghost backlinks
+- Related Ghost tag: `growth-systems`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `growth-systems-series/`

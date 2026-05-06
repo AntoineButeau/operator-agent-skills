@@ -15,8 +15,16 @@ Use this pack when the work relates to go-to-market strategy and needs an operat
 - [Channel Fit Evaluator](skills/channel-fit-evaluator.md)
 - [GTM Operating Plan](skills/gtm-operating-plan.md)
 
+## Example
+- [Pack example](../../examples/by-pack/gtm-strategy.md)
+
 ## Related Ghost tag
 `gtm-strategy`
+
+## Ghost backlinks
+- Related Ghost tag: `gtm-strategy`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `gtm-strategy-series/`

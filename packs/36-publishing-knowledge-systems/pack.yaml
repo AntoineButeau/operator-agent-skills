@@ -4,6 +4,8 @@ name: "Publishing Pipeline Pack"
 slug: "publishing-knowledge-systems"
 source_series_name: "Publishing & Knowledge Systems"
 ghost_tag: "publishing-knowledge-systems"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "publishing-knowledge-systems-series/"
 source_plan: "publishing-knowledge-systems-series/series-plan.md"
 skills:

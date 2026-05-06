@@ -6,7 +6,7 @@ Use this workflow when forecast accuracy is poor or confidence is unclear.
 ## Inputs
 - Primary objective or decision to support
 - pipeline data, forecast categories, deal notes, history
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, marketing, sales, success, finance, and RevOps owners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a forecast quality diagnosis. Include the decision, owner, next action, review d
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Forecast Reliability Review workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Forecast Reliability Review workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

@@ -6,7 +6,7 @@ Use this workflow when discounting patterns may reveal packaging, value, or sale
 ## Inputs
 - Primary objective or decision to support
 - discount data, deal notes, objections, segment data
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, customers, sellers, finance, and product leaders, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a discount diagnosis and policy options. Include the decision, owner, next actio
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Discount Signal Analysis workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Discount Signal Analysis workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

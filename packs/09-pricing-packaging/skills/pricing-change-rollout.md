@@ -6,7 +6,7 @@ Use this workflow when a pricing change needs operational planning across sales,
 ## Inputs
 - Primary objective or decision to support
 - new model, affected customers, timing, systems
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, customers, sellers, finance, and product leaders, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a rollout plan with risks and review gates. Include the decision, owner, next ac
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Pricing Change Rollout workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Pricing Change Rollout workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

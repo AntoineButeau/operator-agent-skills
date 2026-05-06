@@ -6,7 +6,7 @@ Use this workflow when a project is too large and needs a smaller valuable relea
 ## Inputs
 - Primary objective or decision to support
 - problem, users, current scope, must-haves, constraints
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, product, engineering, design, and launch partners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a sliced release plan with learning milestones. Include the decision, owner, nex
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Scope Slicer workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Scope Slicer workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

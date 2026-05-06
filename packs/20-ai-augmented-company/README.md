@@ -15,5 +15,13 @@ Use this pack when the work relates to the ai-augmented company and needs an ope
 - [AI Operating Policy Draft](skills/ai-operating-policy-draft.md)
 - [AI Transformation Roadmap](skills/ai-transformation-roadmap.md)
 
+## Example
+- [Pack example](../../examples/by-pack/ai-augmented-company.md)
+
 ## Related Ghost tag
 `ai-augmented-company`
+## Ghost backlinks
+- Related Ghost tag: `ai-augmented-company`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
+

@@ -6,7 +6,7 @@ Use this workflow when roles need to change as agents automate tasks and expand 
 ## Inputs
 - Primary objective or decision to support
 - role list, workflows, AI tools, outcomes
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, human operators, agent owners, managers, and reviewers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a redesigned role charter. Include the decision, owner, next action, review date
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the AI-Era Role Redesign workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the AI-Era Role Redesign workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

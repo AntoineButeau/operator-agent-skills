@@ -15,5 +15,13 @@ Use this pack when the work relates to agency / high agency and needs an operato
 - [Owner Mindset Plan](skills/owner-mindset-plan.md)
 - [High-Agency Retrospective](skills/high-agency-retrospective.md)
 
+## Example
+- [Pack example](../../examples/by-pack/agency.md)
+
 ## Related Ghost tag
 `agency`
+## Ghost backlinks
+- Related Ghost tag: `agency`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
+

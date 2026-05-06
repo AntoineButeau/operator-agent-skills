@@ -32,7 +32,9 @@
           "name": "Decision Journal Coach",
           "path": "skills/decision-journal-coach.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "managing-up",
@@ -62,7 +64,9 @@
           "name": "Priority Reading Map",
           "path": "skills/priority-reading-map.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "personal-productivity-km",
@@ -92,7 +96,9 @@
           "name": "System Decay Triage",
           "path": "skills/system-decay-triage.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "metrics-reporting",
@@ -122,7 +128,9 @@
           "name": "Metric Owner Map",
           "path": "skills/metric-owner-map.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "great-executive",
@@ -152,7 +160,9 @@
           "name": "Legacy System Review",
           "path": "skills/legacy-system-review.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "organizational-design",
@@ -182,7 +192,9 @@
           "name": "Role Clarity Redesign",
           "path": "skills/role-clarity-redesign.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "decision-making-systems-thinking",
@@ -212,7 +224,9 @@
           "name": "Incentive Behavior Review",
           "path": "skills/incentive-behavior-review.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "shipping-velocity",
@@ -242,7 +256,9 @@
           "name": "Quality-Speed Tradeoff Check",
           "path": "skills/quality-speed-tradeoff-check.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "pricing-packaging",
@@ -272,7 +288,9 @@
           "name": "Pricing Change Rollout",
           "path": "skills/pricing-change-rollout.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "international-gtm",
@@ -302,7 +320,9 @@
           "name": "Market Entry Plan",
           "path": "skills/market-entry-plan.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "operating-cadence",
@@ -332,7 +352,9 @@
           "name": "Cadence Health Check",
           "path": "skills/cadence-health-check.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "revenue-operations",
@@ -362,7 +384,9 @@
           "name": "RevOps Change Control",
           "path": "skills/revops-change-control.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "gtm-strategy",
@@ -392,7 +416,9 @@
           "name": "GTM Operating Plan",
           "path": "skills/gtm-operating-plan.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "automation-architecture",
@@ -422,7 +448,9 @@
           "name": "Agent Workflow Spec",
           "path": "skills/agent-workflow-spec.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "building-ai-products",
@@ -452,7 +480,9 @@
           "name": "AI Feature Launch Plan",
           "path": "skills/ai-feature-launch-plan.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "product-led-growth",
@@ -482,7 +512,9 @@
           "name": "PLG Experiment Brief",
           "path": "skills/plg-experiment-brief.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "growth-systems",
@@ -512,7 +544,9 @@
           "name": "Compounding Channel Evaluator",
           "path": "skills/compounding-channel-evaluator.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "founder-mode",
@@ -542,7 +576,9 @@
           "name": "Scaling Founder Rituals",
           "path": "skills/scaling-founder-rituals.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "builder-shift",
@@ -572,7 +608,9 @@
           "name": "Builder Adoption Plan",
           "path": "skills/builder-adoption-plan.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "ai-augmented-company",
@@ -602,7 +640,9 @@
           "name": "AI Transformation Roadmap",
           "path": "skills/ai-transformation-roadmap.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "ai-org-design",
@@ -632,7 +672,9 @@
           "name": "Org Capability Shift Plan",
           "path": "skills/org-capability-shift-plan.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "full-stack-company",
@@ -662,7 +704,9 @@
           "name": "Vertical Integration Roadmap",
           "path": "skills/vertical-integration-roadmap.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "positioning",
@@ -692,7 +736,9 @@
           "name": "Message Confusion Audit",
           "path": "skills/message-confusion-audit.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "sales-management",
@@ -722,7 +768,9 @@
           "name": "Sales Operating Cadence",
           "path": "skills/sales-operating-cadence.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "great-coo",
@@ -752,7 +800,9 @@
           "name": "COO Leverage Dashboard",
           "path": "skills/coo-leverage-dashboard.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "company-behavior",
@@ -782,7 +832,9 @@
           "name": "Behavior Change Lever Map",
           "path": "skills/behavior-change-lever-map.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "change-adoption",
@@ -812,7 +864,9 @@
           "name": "Change Embedding Review",
           "path": "skills/change-embedding-review.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "power-map",
@@ -842,7 +896,9 @@
           "name": "Political Friction Diagnosis",
           "path": "skills/political-friction-diagnosis.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "executive-communication",
@@ -872,7 +928,9 @@
           "name": "Executive Update Compressor",
           "path": "skills/executive-update-compressor.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "internal-communication",
@@ -902,7 +960,9 @@
           "name": "Context Package Builder",
           "path": "skills/context-package-builder.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "agency",
@@ -932,7 +992,9 @@
           "name": "High-Agency Retrospective",
           "path": "skills/high-agency-retrospective.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "live-player",
@@ -962,7 +1024,9 @@
           "name": "Field Signal Review",
           "path": "skills/field-signal-review.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "bizops",
@@ -992,7 +1056,9 @@
           "name": "Recommendation Memo Builder",
           "path": "skills/recommendation-memo-builder.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "strategy-execution",
@@ -1022,7 +1088,9 @@
           "name": "Strategy Review Cadence",
           "path": "skills/strategy-review-cadence.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "technical-taste",
@@ -1052,7 +1120,9 @@
           "name": "AI Code Review Context Pack",
           "path": "skills/ai-code-review-context-pack.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "publishing-knowledge-systems",
@@ -1082,7 +1152,9 @@
           "name": "Publishing Quality Gate",
           "path": "skills/publishing-quality-gate.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "individual-operator",
@@ -1112,7 +1184,9 @@
           "name": "Operator Retrospective",
           "path": "skills/operator-retrospective.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "legibility-operator",
@@ -1142,7 +1216,9 @@
           "name": "Legible Decision Package",
           "path": "skills/legible-decision-package.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     },
     {
       "id": "ai-native-gtm",
@@ -1172,7 +1248,9 @@
           "name": "AI-Native Campaign System",
           "path": "skills/ai-native-campaign-system.md"
         }
-      ]
+      ],
+      "maturity": "draft",
+      "ghost_series_status": "draft_or_individual_posts"
     }
   ],
   "skill_count": 156

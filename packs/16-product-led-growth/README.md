@@ -15,5 +15,13 @@ Use this pack when the work relates to product-led growth and needs an operator-
 - [Product-Qualified Signal Design](skills/product-qualified-signal-design.md)
 - [PLG Experiment Brief](skills/plg-experiment-brief.md)
 
+## Example
+- [Pack example](../../examples/by-pack/product-led-growth.md)
+
 ## Related Ghost tag
 `product-led-growth`
+## Ghost backlinks
+- Related Ghost tag: `product-led-growth`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
+

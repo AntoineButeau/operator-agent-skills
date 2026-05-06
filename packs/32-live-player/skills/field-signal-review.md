@@ -6,7 +6,7 @@ Use this workflow when frontline signals need conversion into strategy or operat
 ## Inputs
 - Primary objective or decision to support
 - customer feedback, sales notes, support issues, market events
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, operator, allies, customers, and decision makers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a field signal interpretation memo. Include the decision, owner, next action, re
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Field Signal Review workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Field Signal Review workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

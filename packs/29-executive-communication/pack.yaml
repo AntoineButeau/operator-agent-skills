@@ -4,6 +4,8 @@ name: "Executive Clarity Pack"
 slug: "executive-communication"
 source_series_name: "Executive Communication That Creates Clarity: How Leaders Use Memos, Updates, Narratives, and Escalations to Help Organizations Decide"
 ghost_tag: "executive-communication"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "executive-communication-series/"
 source_plan: "executive-communication-series/series-plan.md"
 skills:

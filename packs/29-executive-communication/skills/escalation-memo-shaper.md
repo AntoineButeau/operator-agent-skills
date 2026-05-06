@@ -6,7 +6,7 @@ Use this workflow when a hard issue needs escalation without drama or blame.
 ## Inputs
 - Primary objective or decision to support
 - issue, impact, options, owner, deadline
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, executives, operators, reviewers, and affected teams, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ an escalation memo with clear asks. Include the decision, owner, next action, re
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Escalation Memo Shaper workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Escalation Memo Shaper workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

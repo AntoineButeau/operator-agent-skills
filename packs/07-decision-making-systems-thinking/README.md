@@ -15,8 +15,16 @@ Use this pack when the work relates to decision making & systems thinking and ne
 - [Constraint Finder](skills/constraint-finder.md)
 - [Incentive Behavior Review](skills/incentive-behavior-review.md)
 
+## Example
+- [Pack example](../../examples/by-pack/decision-making-systems-thinking.md)
+
 ## Related Ghost tag
 `decision-making-systems-thinking`
+
+## Ghost backlinks
+- Related Ghost tag: `decision-making-systems-thinking`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `decision-making-systems-thinking-series/`

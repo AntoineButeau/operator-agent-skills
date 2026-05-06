@@ -15,8 +15,16 @@ Use this pack when the work relates to strategy execution and needs an operator-
 - [Execution Dependency Map](skills/execution-dependency-map.md)
 - [Strategy Review Cadence](skills/strategy-review-cadence.md)
 
+## Example
+- [Pack example](../../examples/by-pack/strategy-execution.md)
+
 ## Related Ghost tag
 `strategy-execution`
+
+## Ghost backlinks
+- Related Ghost tag: `strategy-execution`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `strategy-execution-series/`

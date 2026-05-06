@@ -6,7 +6,7 @@ Use this workflow when official priorities do not match the manager’s actual a
 ## Inputs
 - Primary objective or decision to support
 - recent decisions, meetings, repeated questions, resource moves
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, manager, skip-level leader, and delivery partners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a map of revealed priorities and how to align work. Include the decision, owner,
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Priority Reading Map workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Priority Reading Map workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

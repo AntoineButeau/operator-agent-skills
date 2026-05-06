@@ -6,7 +6,7 @@ Use this workflow when a proposed action may create unintended consequences acro
 ## Inputs
 - Primary objective or decision to support
 - proposal, affected actors, incentives, constraints
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, decision owners, affected teams, and reviewers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a second-order effects map and mitigation list. Include the decision, owner, nex
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Second-Order Effects Scan workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Second-Order Effects Scan workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

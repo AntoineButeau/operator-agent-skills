@@ -6,7 +6,7 @@ Use this workflow when a leader needs to judge whether a technical proposal has 
 ## Inputs
 - Primary objective or decision to support
 - proposal, user impact, maintenance burden, alternatives
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, engineers, product leaders, operators, and technical reviewers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a taste review scorecard. Include the decision, owner, next action, review date,
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Technical Taste Review workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Technical Taste Review workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

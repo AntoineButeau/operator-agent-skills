@@ -6,7 +6,7 @@ Use this workflow when a business decision needs a simple model or scenario anal
 ## Inputs
 - Primary objective or decision to support
 - decision, variables, assumptions, data sources
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, BizOps owner, executives, finance, product, and GTM partners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a model specification and sensitivity plan. Include the decision, owner, next ac
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Decision Support Model Spec workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Decision Support Model Spec workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

@@ -15,8 +15,16 @@ Use this pack when the work relates to bizops / business operations and needs an
 - [Operational Deep Dive Plan](skills/operational-deep-dive-plan.md)
 - [Recommendation Memo Builder](skills/recommendation-memo-builder.md)
 
+## Example
+- [Pack example](../../examples/by-pack/bizops.md)
+
 ## Related Ghost tag
 `bizops`
+
+## Ghost backlinks
+- Related Ghost tag: `bizops`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `bizops-series/`

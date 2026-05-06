@@ -4,6 +4,8 @@ name: "Operating Cadence Pack"
 slug: "operating-cadence"
 source_series_name: "Operating Cadence & Management Systems"
 ghost_tag: "operating-cadence"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "operating-cadence-series/"
 source_plan: "operating-cadence-series/series-plan.md"
 skills:

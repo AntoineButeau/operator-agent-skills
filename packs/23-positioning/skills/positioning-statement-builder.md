@@ -6,7 +6,7 @@ Use this workflow when a team needs a crisp positioning statement grounded in cu
 ## Inputs
 - Primary objective or decision to support
 - ICP, pain, differentiators, proof, competitors
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, buyers, customers, sellers, and market reviewers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a positioning statement and supporting message pillars. Include the decision, ow
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Positioning Statement Builder workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Positioning Statement Builder workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

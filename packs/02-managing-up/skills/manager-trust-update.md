@@ -6,7 +6,7 @@ Use this workflow when an IC or lead needs to update a manager with signal inste
 ## Inputs
 - Primary objective or decision to support
 - current work, risks, asks, decisions needed, confidence level
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, manager, skip-level leader, and delivery partners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a concise manager update with context, interpretation, and requested action. Inc
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Manager Trust Update workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Manager Trust Update workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

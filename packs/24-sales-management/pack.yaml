@@ -4,6 +4,8 @@ name: "Sales Manager OS Pack"
 slug: "sales-management"
 source_series_name: "Sales Management That Actually Works"
 ghost_tag: "sales-management"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "sales-management-series/"
 source_plan: "sales-management-series/series-plan.md"
 skills:

@@ -6,7 +6,7 @@ Use this workflow when the founder must stay close to key calls while letting th
 ## Inputs
 - Primary objective or decision to support
 - decision types, risk, owner capability, escalation history
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, founder, leadership team, operators, and customers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a decision rights reset plan. Include the decision, owner, next action, review d
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Founder Decision Rights Reset workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Founder Decision Rights Reset workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

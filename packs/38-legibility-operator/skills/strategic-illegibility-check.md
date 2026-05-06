@@ -6,7 +6,7 @@ Use this workflow when some work may need privacy or ambiguity without becoming 
 ## Inputs
 - Primary objective or decision to support
 - initiative, stakeholders, risk, timing, trust level
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, operator, reviewer, team, and decision owner, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a responsible illegibility recommendation. Include the decision, owner, next act
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Strategic Illegibility Check workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Strategic Illegibility Check workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

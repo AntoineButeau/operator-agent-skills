@@ -15,8 +15,16 @@ Use this pack when the work relates to change that actually takes: how companies
 - [Resistance Diagnosis](skills/resistance-diagnosis.md)
 - [Change Embedding Review](skills/change-embedding-review.md)
 
+## Example
+- [Pack example](../../examples/by-pack/change-adoption.md)
+
 ## Related Ghost tag
 `change-that-takes`
+
+## Ghost backlinks
+- Related Ghost tag: `change-that-takes`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `change-that-takes-series/`

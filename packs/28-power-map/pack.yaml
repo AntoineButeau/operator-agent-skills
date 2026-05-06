@@ -4,6 +4,8 @@ name: "Power Map Pack"
 slug: "power-map"
 source_series_name: "Power That Actually Moves Work"
 ghost_tag: "power"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: null
 source_plan: null
 skills:

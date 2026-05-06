@@ -6,7 +6,7 @@ Use this workflow when an internal build should start small enough to validate f
 ## Inputs
 - Primary objective or decision to support
 - desired tool, must-have jobs, risks, existing process
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, operators, builders, reviewers, and internal users, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a prototype scope and validation plan. Include the decision, owner, next action,
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Prototype Scope Cutter workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Prototype Scope Cutter workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

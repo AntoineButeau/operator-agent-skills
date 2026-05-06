@@ -6,7 +6,7 @@ Use this workflow when operational risks need visibility before they become miss
 ## Inputs
 - Primary objective or decision to support
 - plans, dependencies, constraints, prior misses
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, COO, operators, executive team, and functional leads, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a risk register with owners and review cadence. Include the decision, owner, nex
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Execution Risk Register workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Execution Risk Register workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

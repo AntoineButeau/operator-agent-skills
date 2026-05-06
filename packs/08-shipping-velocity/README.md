@@ -15,5 +15,13 @@ Use this pack when the work relates to shipping velocity / how teams actually sh
 - [Rework Root Cause Review](skills/rework-root-cause-review.md)
 - [Quality-Speed Tradeoff Check](skills/quality-speed-tradeoff-check.md)
 
+## Example
+- [Pack example](../../examples/by-pack/shipping-velocity.md)
+
 ## Related Ghost tag
 `shipping-velocity`
+## Ghost backlinks
+- Related Ghost tag: `shipping-velocity`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
+

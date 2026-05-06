@@ -6,7 +6,7 @@ Use this workflow when a personal system feels broken and needs fast stabilizati
 ## Inputs
 - Primary objective or decision to support
 - symptoms, backlog size, missed commitments, tooling stack
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, future self, collaborators, and review partners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a 15-minute triage plan and longer repair queue. Include the decision, owner, ne
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the System Decay Triage workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the System Decay Triage workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

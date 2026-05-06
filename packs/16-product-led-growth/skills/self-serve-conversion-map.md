@@ -6,7 +6,7 @@ Use this workflow when free or trial users need a clearer path to paid conversio
 ## Inputs
 - Primary objective or decision to support
 - journey steps, paywalls, usage limits, objections
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, users, product managers, growth leads, sellers, and success teams, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a conversion map and pricing triggers. Include the decision, owner, next action,
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Self-Serve Conversion Map workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Self-Serve Conversion Map workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

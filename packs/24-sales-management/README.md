@@ -15,8 +15,16 @@ Use this pack when the work relates to sales management that actually works and 
 - [Forecast Call Prep](skills/forecast-call-prep.md)
 - [Sales Operating Cadence](skills/sales-operating-cadence.md)
 
+## Example
+- [Pack example](../../examples/by-pack/sales-management.md)
+
 ## Related Ghost tag
 `sales-management`
+
+## Ghost backlinks
+- Related Ghost tag: `sales-management`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `sales-management-series/`

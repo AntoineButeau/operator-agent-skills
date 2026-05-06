@@ -6,7 +6,7 @@ Use this workflow when a system is underperforming and optimization is scattered
 ## Inputs
 - Primary objective or decision to support
 - goal, process, bottlenecks, queues, resource limits
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, decision owners, affected teams, and reviewers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a ranked constraint diagnosis and focus plan. Include the decision, owner, next 
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Constraint Finder workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Constraint Finder workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

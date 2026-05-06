@@ -6,7 +6,7 @@ Use this workflow when operators see repeated manual work that could become inte
 ## Inputs
 - Primary objective or decision to support
 - pain points, workflows, volumes, users, systems
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, operators, builders, reviewers, and internal users, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a ranked internal tool opportunity map. Include the decision, owner, next action
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Internal Tool Opportunity Map workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Internal Tool Opportunity Map workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

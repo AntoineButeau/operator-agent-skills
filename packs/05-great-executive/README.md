@@ -15,5 +15,13 @@ Use this pack when the work relates to being a great executive and needs an oper
 - [Talent Calibration Loop](skills/talent-calibration-loop.md)
 - [Legacy System Review](skills/legacy-system-review.md)
 
+## Example
+- [Pack example](../../examples/by-pack/great-executive.md)
+
 ## Related Ghost tag
 `executive`
+## Ghost backlinks
+- Related Ghost tag: `executive`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
+

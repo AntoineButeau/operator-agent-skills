@@ -6,7 +6,7 @@ Use this workflow when pipeline data or handoffs are unreliable across marketing
 ## Inputs
 - Primary objective or decision to support
 - funnel stages, conversion data, definitions, CRM fields
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, marketing, sales, success, finance, and RevOps owners, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a funnel integrity report and cleanup plan. Include the decision, owner, next ac
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Funnel Integrity Audit workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Funnel Integrity Audit workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

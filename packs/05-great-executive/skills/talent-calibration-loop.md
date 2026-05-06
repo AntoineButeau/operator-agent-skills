@@ -6,7 +6,7 @@ Use this workflow when a leadership team needs continuous talent judgment rather
 ## Inputs
 - Primary objective or decision to support
 - role expectations, performance evidence, growth signals, risks
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, executive team, board, and operating leaders, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a calibration brief and next-step actions. Include the decision, owner, next act
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Talent Calibration Loop workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Talent Calibration Loop workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

@@ -4,6 +4,8 @@ name: "Pricing Decision Pack"
 slug: "pricing-packaging"
 source_series_name: "Pricing and Packaging"
 ghost_tag: "pricing-packaging"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "pricing-packaging-series/"
 source_plan: "pricing-packaging-series/series-plan.md"
 skills:

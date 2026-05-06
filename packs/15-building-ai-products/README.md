@@ -15,8 +15,16 @@ Use this pack when the work relates to building ai products and needs an operato
 - [AI Product Risk Review](skills/ai-product-risk-review.md)
 - [AI Feature Launch Plan](skills/ai-feature-launch-plan.md)
 
+## Example
+- [Pack example](../../examples/by-pack/building-ai-products.md)
+
 ## Related Ghost tag
 `building-ai-products`
+
+## Ghost backlinks
+- Related Ghost tag: `building-ai-products`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `building-ai-products-series/`

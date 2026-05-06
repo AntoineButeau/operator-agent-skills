@@ -4,6 +4,8 @@ name: "Behavioral OS Pack"
 slug: "company-behavior"
 source_series_name: "How Companies Actually Behave: Operating Principles, Decision Rules, and the Hidden System Behind Culture"
 ghost_tag: "how-companies-behave"
+maturity: "draft"
+ghost_series_status: "draft_or_individual_posts"
 source_path: "how-companies-behave-series/"
 source_plan: "how-companies-behave-series/series-plan.md"
 skills:

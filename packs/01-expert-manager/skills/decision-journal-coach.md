@@ -6,7 +6,7 @@ Use this workflow when a manager wants accountability and learning without blame
 ## Inputs
 - Primary objective or decision to support
 - decision context, options considered, chosen path, expected signals
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, direct reports, peer managers, and senior leaders, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a decision journal entry and review prompts. Include the decision, owner, next a
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Decision Journal Coach workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Decision Journal Coach workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

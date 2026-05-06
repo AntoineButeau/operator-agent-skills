@@ -15,8 +15,16 @@ Use this pack when the work relates to legibility and illegibility for operators
 - [Visibility System Design](skills/visibility-system-design.md)
 - [Legible Decision Package](skills/legible-decision-package.md)
 
+## Example
+- [Pack example](../../examples/by-pack/legibility-operator.md)
+
 ## Related Ghost tag
 `legibility-illegibility`
+
+## Ghost backlinks
+- Related Ghost tag: `legibility-illegibility`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `legibility-illegibility-operators-series/`

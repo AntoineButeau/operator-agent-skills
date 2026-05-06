@@ -6,7 +6,7 @@ Use this workflow when a metric may be vanity, gameable, lagging, or disconnecte
 ## Inputs
 - Primary objective or decision to support
 - metric definition, audience, behavior it drives, decisions it informs
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, metric owners, decision makers, and reviewers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a metric risk assessment and redesign options. Include the decision, owner, next
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the Metric Quality Audit workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Metric Quality Audit workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

@@ -15,8 +15,16 @@ Use this pack when the work relates to internationalization & international go-t
 - [International GTM Readiness](skills/international-gtm-readiness.md)
 - [Market Entry Plan](skills/market-entry-plan.md)
 
+## Example
+- [Pack example](../../examples/by-pack/international-gtm.md)
+
 ## Related Ghost tag
 `international`
+
+## Ghost backlinks
+- Related Ghost tag: `international`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `international-series/`

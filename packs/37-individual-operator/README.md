@@ -15,8 +15,16 @@ Use this pack when the work relates to from individual contributor to individual
 - [Autonomy Readiness Plan](skills/autonomy-readiness-plan.md)
 - [Operator Retrospective](skills/operator-retrospective.md)
 
+## Example
+- [Pack example](../../examples/by-pack/individual-operator.md)
+
 ## Related Ghost tag
 `individual-operator`
+
+## Ghost backlinks
+- Related Ghost tag: `individual-operator`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
 
 ## Source location
 - Series folder: `individual-operator-series/`

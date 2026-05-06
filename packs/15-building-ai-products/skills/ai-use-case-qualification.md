@@ -6,7 +6,7 @@ Use this workflow when a product idea uses AI and needs validation beyond novelt
 ## Inputs
 - Primary objective or decision to support
 - user problem, data, workflow, risk, alternatives
-- Known constraints, deadlines, stakeholders, and risk tolerance
+- Known constraints, deadlines, users, product leaders, engineers, and risk reviewers, and risk tolerance
 - Existing artifacts such as notes, metrics, drafts, plans, or meeting records
 
 ## Workflow
@@ -31,4 +31,4 @@ a qualified AI use-case brief. Include the decision, owner, next action, review 
 - Producing a polished artifact without a clear owner, decision, or follow-up cadence.
 
 ## Example prompt
-Run the AI Use Case Qualification workflow for this situation: [paste context]. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the AI Use Case Qualification workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.

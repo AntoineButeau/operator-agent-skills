@@ -15,5 +15,13 @@ Use this pack when the work relates to the builder shift and needs an operator-g
 - [Prototype Scope Cutter](skills/prototype-scope-cutter.md)
 - [Builder Adoption Plan](skills/builder-adoption-plan.md)
 
+## Example
+- [Pack example](../../examples/by-pack/builder-shift.md)
+
 ## Related Ghost tag
 `builder-shift`
+## Ghost backlinks
+- Related Ghost tag: `builder-shift`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
+

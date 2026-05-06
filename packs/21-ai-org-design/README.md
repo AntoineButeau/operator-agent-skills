@@ -15,5 +15,13 @@ Use this pack when the work relates to operating structure for the ai era and ne
 - [AI Governance Cadence](skills/ai-governance-cadence.md)
 - [Org Capability Shift Plan](skills/org-capability-shift-plan.md)
 
+## Example
+- [Pack example](../../examples/by-pack/ai-org-design.md)
+
 ## Related Ghost tag
 `operating-structure`
+## Ghost backlinks
+- Related Ghost tag: `operating-structure`
+- Series status: `draft_or_individual_posts`
+- Update with a stable Ghost series URL when the posts are collected into an index page.
+
