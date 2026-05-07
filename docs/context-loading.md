@@ -2,6 +2,8 @@
 
 Use this guide to keep agent context focused when working with the operator-agent skill library.
 
+The guidance applies across Codex, Claude Code, cowork-style agents, OpenClaw, Hermes, and similar runtimes. The canonical files stay platform-neutral: each runtime should load the library minimally as context, preserve human gates, and treat skills as workflow guidance rather than autonomous permission.
+
 ## What to load
 
 ### Index level
@@ -58,8 +60,12 @@ Load:
 
 Aim: explicit breadth for a repository-level task, still avoiding unrelated packs.
 
+## Runtime notes
+- **OpenClaw:** Prefer using these files as selected prompt/context material inside a skill, session, or taskflow. Load indexes/pack/skill minimally; do not import the full repository or bypass review gates through tool access.
+- **Hermes:** Use the same context-library pattern. Select the route, pack, and skill first; keep the canonical Markdown unchanged unless a lightweight runtime wrapper is needed.
+
 ## Guardrails
-- Do not load the whole repository into a coding-agent context window.
+- Do not load the whole repository into an agent context window.
 - Treat skills as workflow guidance, not permission to act autonomously.
 - Preserve human review gates.
 - Follow output schemas exactly.

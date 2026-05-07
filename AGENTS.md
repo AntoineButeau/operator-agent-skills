@@ -15,6 +15,11 @@ This repository is a context library for operator-agent workflow skills. Use it 
    - the matching example under `examples/by-pack/` only when the task needs a concrete prompt pattern.
 5. Do not load unrelated packs, all skills, or the full manifest unless you are building tooling that needs the registry.
 
+## Target consumers
+These instructions apply to Codex, Claude Code, cowork-style coding agents, OpenClaw, Hermes, and similar agent runtimes. Keep the canonical skill format platform-neutral; runtime-specific adapters may wrap the context, but they should not change the workflow or review gates.
+
+For OpenClaw and Hermes specifically: use this repository as a context library. Route through `START_HERE.md`, `manifest.json`, or `indexes/`, then load the smallest relevant pack/skill bundle. Do not treat a selected skill as permission for autonomous external action.
+
 ## Operating rules
 - Treat skills as workflow context, not autonomous permission to act.
 - Preserve every human review gate in the selected skill.
