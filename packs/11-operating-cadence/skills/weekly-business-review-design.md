@@ -1,34 +1,44 @@
 # Weekly Business Review Design
 
 ## Use when
-Use this workflow when a team needs a recurring review that drives decisions instead of status theater.
+Use this workflow when you are working on operating cadence & management systems and need to diagnose the current state and name the operating risk. Its distinct job inside the Operating Cadence Pack is to produce the risk-and-evidence audit; use the neighboring skills for Cadence Architecture Map, Meeting System Prune, Cadence Health Check.
 
 ## Inputs
-- Primary objective or decision to support
-- metrics, priorities, risks, cross-functional dependencies
-- Known constraints, deadlines, meeting owners, operators, and leadership reviewers, and risk tolerance
-- Existing artifacts such as notes, metrics, drafts, plans, or meeting records
+- Current operating context: team, owner, deadline, decision needed, and why this now matters.
+- Evidence: source-of-truth links, dashboards, customer notes, meeting records, CRM/project data, or draft artifacts.
+- Domain signals to inspect: WBR, QBR, operating review, meeting prune, cadence owner.
+- Constraints: decision rights, budget or headcount limits, customer commitments, legal/security exposure, and review cadence.
+- Audience: accountable owner, reviewer, implementer, and anyone affected by the next operating review.
 
 ## Workflow
-1. Restate the operating problem in one sentence and name the decision or behavior this skill should improve.
-2. Separate facts, interpretations, assumptions, and missing evidence.
-3. Map the relevant actors, incentives, handoffs, constraints, and feedback loops.
-4. Generate two to four viable options, including the smallest useful next move.
-5. Recommend a path with rationale, risks, owner, cadence, and success signals.
-6. Produce the requested artifact in a format that can be reused by another operator or agent.
+1. Name the concrete use case in one sentence: decision to make, artifact to produce, owner, deadline, and the cost of doing nothing.
+2. Build an evidence table with facts, assumptions, missing source-of-truth links, and disputed signals; do not smooth over gaps.
+3. Inspect the domain mechanics for this pack: WBR, QBR, operating review, meeting prune, cadence owner. Call out where handoffs, incentives, review gates, or decision rights break down.
+4. Separate this skill's job from the rest of the pack: deliver the risk-and-evidence audit, and list what should be routed to Cadence Architecture Map, Meeting System Prune, Cadence Health Check.
+5. Draft the artifact with owner, decision, options, tradeoffs, acceptance criteria, first action, and operating-review cadence.
+6. Add a human review gate for commitments, people claims, customer escalation, financial exposure, legal/security risk, or changes to a system of record.
+7. Finish with the smallest useful next move and the exact evidence a human must verify before acting.
 
 ## Output
-a weekly business review agenda and artifact template. Include the decision, owner, next action, review date, and open questions.
+Return a risk-and-evidence audit with this schema:
+- `use_case`: the specific operating situation and decision.
+- `evidence`: facts, source links, missing data, and assumption flags.
+- `diagnosis`: what is happening, why it matters, and which WBR signal changed.
+- `options`: 2-4 paths with tradeoffs, owner, timing, and blast radius.
+- `recommendation`: chosen path, rationale, acceptance criteria, and decision rights.
+- `review_gates`: human approvals required before sending, changing records, or committing resources.
+- `next_move`: one action due within the next operating cadence.
 
 ## Human review gates
-- Review before sending to customers, employees, executives, or external partners.
-- Confirm sensitive personnel, financial, legal, security, or customer claims with the accountable human owner.
-- Ask for approval before changing systems of record or publishing the artifact.
+- Get the accountable owner to approve any recommendation that changes decision rights, budget, headcount, roadmap, pricing, customer commitment, or source-of-truth records.
+- Ask legal, security, finance, HR, or the customer owner to verify claims in their lane before the artifact is shared outside the working team.
+- Use an explicit review gate before publishing, sending to executives, or triggering a customer escalation.
 
 ## Failure modes
-- Treating symptoms as root causes because the workflow skipped evidence collection.
-- Optimizing for local clarity while ignoring incentives, politics, or cross-functional effects.
-- Producing a polished artifact without a clear owner, decision, or follow-up cadence.
+- Producing a generic consultant summary instead of a decision-ready risk-and-evidence audit tied to WBR.
+- Treating stale dashboards, anecdotes, or meeting memory as facts without source-of-truth checks.
+- Blurring this skill with Cadence Architecture Map, Meeting System Prune, Cadence Health Check, which creates duplicate work and hides the real owner.
+- Skipping the human review gate for commitments, sensitive people/customer data, or system-of-record changes.
 
 ## Example prompt
-Run the Weekly Business Review Design workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Weekly Business Review Design workflow for the following Operating Cadence & Management Systems situation. Context: <describe team, decision, deadline, evidence links, owner, and known constraints>. Return the risk-and-evidence audit using the output schema, mark assumptions, and list the human review gates before anyone acts.

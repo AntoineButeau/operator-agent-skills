@@ -33,8 +33,11 @@
           "path": "skills/decision-journal-coach.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "managing-up",
@@ -65,8 +68,11 @@
           "path": "skills/priority-reading-map.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "personal-productivity-km",
@@ -97,8 +103,11 @@
           "path": "skills/system-decay-triage.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "metrics-reporting",
@@ -129,13 +138,16 @@
           "path": "skills/metric-owner-map.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "great-executive",
       "series_number": 5,
-      "name": "Executive Leverage Pack",
+      "name": "Executive Attention Pack",
       "source_series_name": "Being a Great Executive",
       "ghost_tag": "executive",
       "path": "packs/05-great-executive",
@@ -161,8 +173,11 @@
           "path": "skills/legacy-system-review.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "organizational-design",
@@ -193,8 +208,11 @@
           "path": "skills/role-clarity-redesign.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "decision-making-systems-thinking",
@@ -225,8 +243,11 @@
           "path": "skills/incentive-behavior-review.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "shipping-velocity",
@@ -257,8 +278,11 @@
           "path": "skills/quality-speed-tradeoff-check.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "pricing-packaging",
@@ -289,8 +313,11 @@
           "path": "skills/pricing-change-rollout.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "international-gtm",
@@ -321,8 +348,11 @@
           "path": "skills/market-entry-plan.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "operating-cadence",
@@ -353,8 +383,11 @@
           "path": "skills/cadence-health-check.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "revenue-operations",
@@ -385,8 +418,11 @@
           "path": "skills/revops-change-control.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "gtm-strategy",
@@ -417,8 +453,11 @@
           "path": "skills/gtm-operating-plan.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "automation-architecture",
@@ -449,8 +488,11 @@
           "path": "skills/agent-workflow-spec.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "building-ai-products",
@@ -481,8 +523,11 @@
           "path": "skills/ai-feature-launch-plan.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "product-led-growth",
@@ -513,8 +558,11 @@
           "path": "skills/plg-experiment-brief.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "growth-systems",
@@ -536,7 +584,7 @@
         },
         {
           "id": "retention-leverage-scan",
-          "name": "Retention Leverage Scan",
+          "name": "Retention Lever Scan",
           "path": "skills/retention-leverage-scan.md"
         },
         {
@@ -545,20 +593,23 @@
           "path": "skills/compounding-channel-evaluator.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "founder-mode",
       "series_number": 18,
-      "name": "Founder Leverage Pack",
+      "name": "Founder Operating Mode Pack",
       "source_series_name": "Founder Mode That Actually Scales",
       "ghost_tag": "founder-mode",
       "path": "packs/18-founder-mode",
       "skills": [
         {
           "id": "founder-leverage-audit",
-          "name": "Founder Leverage Audit",
+          "name": "Founder Bottleneck Audit",
           "path": "skills/founder-leverage-audit.md"
         },
         {
@@ -577,8 +628,11 @@
           "path": "skills/scaling-founder-rituals.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "builder-shift",
@@ -609,8 +663,11 @@
           "path": "skills/builder-adoption-plan.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "ai-augmented-company",
@@ -641,8 +698,11 @@
           "path": "skills/ai-transformation-roadmap.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "ai-org-design",
@@ -673,8 +733,11 @@
           "path": "skills/org-capability-shift-plan.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "full-stack-company",
@@ -705,8 +768,11 @@
           "path": "skills/vertical-integration-roadmap.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "positioning",
@@ -737,8 +803,11 @@
           "path": "skills/message-confusion-audit.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "sales-management",
@@ -769,8 +838,11 @@
           "path": "skills/sales-operating-cadence.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "great-coo",
@@ -797,12 +869,15 @@
         },
         {
           "id": "coo-leverage-dashboard",
-          "name": "COO Leverage Dashboard",
+          "name": "COO Operating Dashboard",
           "path": "skills/coo-leverage-dashboard.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "company-behavior",
@@ -833,8 +908,11 @@
           "path": "skills/behavior-change-lever-map.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "change-adoption",
@@ -865,8 +943,11 @@
           "path": "skills/change-embedding-review.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "power-map",
@@ -897,8 +978,11 @@
           "path": "skills/political-friction-diagnosis.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "executive-communication",
@@ -929,8 +1013,11 @@
           "path": "skills/executive-update-compressor.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "internal-communication",
@@ -961,8 +1048,11 @@
           "path": "skills/context-package-builder.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "agency",
@@ -993,8 +1083,11 @@
           "path": "skills/high-agency-retrospective.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "live-player",
@@ -1025,8 +1118,11 @@
           "path": "skills/field-signal-review.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "bizops",
@@ -1057,8 +1153,11 @@
           "path": "skills/recommendation-memo-builder.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "strategy-execution",
@@ -1089,8 +1188,11 @@
           "path": "skills/strategy-review-cadence.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "technical-taste",
@@ -1121,8 +1223,11 @@
           "path": "skills/ai-code-review-context-pack.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "publishing-knowledge-systems",
@@ -1153,8 +1258,11 @@
           "path": "skills/publishing-quality-gate.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "individual-operator",
@@ -1185,8 +1293,11 @@
           "path": "skills/operator-retrospective.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "legibility-operator",
@@ -1217,8 +1328,11 @@
           "path": "skills/legible-decision-package.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     },
     {
       "id": "ai-native-gtm",
@@ -1249,9 +1363,15 @@
           "path": "skills/ai-native-campaign-system.md"
         }
       ],
-      "maturity": "draft",
-      "ghost_series_status": "draft_or_individual_posts"
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-06",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     }
   ],
-  "skill_count": 156
+  "skill_count": 156,
+  "quality_standard": "docs/quality-standard.md",
+  "usable_pack_count": 39,
+  "draft_pack_count": 0
 }

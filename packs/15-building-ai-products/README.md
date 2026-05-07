@@ -4,16 +4,28 @@
 Building AI Products
 
 ## Who it is for
-Operators, founders, executives, managers, chiefs of staff, BizOps leads, product leaders, and AI agents helping those people turn ambiguous work into decisions, systems, and reusable artifacts.
+Operators, founders, executives, managers, chiefs of staff, BizOps leads, product leaders, revenue leaders, and AI agents helping them make decisions from live operating context.
 
 ## When to use this pack
-Use this pack when the work relates to building ai products and needs an operator-grade workflow rather than a long-form essay. The skills are designed for practical diagnosis, planning, review, and artifact generation.
+Use this pack to convert building ai products material into operator-grade decisions and reusable artifacts. The four skills are deliberately sequenced so diagnosis, mapping, planning, and review do not collapse into one vague prompt.
+
+## Progression / use order
+1. [AI Use Case Qualification](skills/ai-use-case-qualification.md) — handle the qualification step without overlapping the other skills in the pack.
+2. [Model Behavior Evaluation Plan](skills/model-behavior-evaluation-plan.md) — turn the decision into sequenced work with gates and owners.
+3. [AI Product Risk Review](skills/ai-product-risk-review.md) — diagnose the current state and name the operating risk.
+4. [AI Feature Launch Plan](skills/ai-feature-launch-plan.md) — turn the decision into sequenced work with gates and owners.
 
 ## Included skills
 - [AI Use Case Qualification](skills/ai-use-case-qualification.md)
 - [Model Behavior Evaluation Plan](skills/model-behavior-evaluation-plan.md)
 - [AI Product Risk Review](skills/ai-product-risk-review.md)
 - [AI Feature Launch Plan](skills/ai-feature-launch-plan.md)
+
+## Quality status
+- Maturity: `usable`
+- Reviewed: `2026-05-06`
+- Notes: four-skill progression checked for distinct jobs, domain terms, output schema, human review gates, and failure modes.
+- Full standard: [Quality standard](../../docs/quality-standard.md)
 
 ## Example
 - [Pack example](../../examples/by-pack/building-ai-products.md)

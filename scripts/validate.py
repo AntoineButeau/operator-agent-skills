@@ -103,6 +103,14 @@ def main() -> int:
             continue
         if pack.get("maturity") not in {"draft", "usable"}:
             fail(errors, f"Manifest pack {pack.get('id')} has invalid maturity {pack.get('maturity')}")
+        if pack.get("quality_status") not in {"draft", "usable"}:
+            fail(errors, f"Manifest pack {pack.get('id')} missing valid quality_status")
+        if pack.get("maturity") == "usable" and pack.get("quality_status") != "usable":
+            fail(errors, f"Manifest pack {pack.get('id')} is usable but quality_status is not usable")
+        if not pack.get("reviewed_at"):
+            fail(errors, f"Manifest pack {pack.get('id')} missing reviewed_at")
+        if not pack.get("review_notes"):
+            fail(errors, f"Manifest pack {pack.get('id')} missing review_notes")
         if not (pack.get("ghost_series_status") or pack.get("ghost_series_url")):
             fail(errors, f"Manifest pack {pack.get('id')} missing Ghost series field")
         for skill in pack.get("skills", []):
@@ -123,8 +131,18 @@ def main() -> int:
         yaml_path = pack_dir / "pack.yaml"
         if yaml_path.exists():
             y = yaml_path.read_text()
-            if yaml_field(y, "maturity") not in {"draft", "usable"}:
+            maturity = yaml_field(y, "maturity")
+            quality_status = yaml_field(y, "quality_status")
+            if maturity not in {"draft", "usable"}:
                 fail(errors, f"{yaml_path.relative_to(ROOT)} missing valid maturity")
+            if quality_status not in {"draft", "usable"}:
+                fail(errors, f"{yaml_path.relative_to(ROOT)} missing valid quality_status")
+            if maturity == "usable" and quality_status != "usable":
+                fail(errors, f"{yaml_path.relative_to(ROOT)} maturity usable but quality_status is not usable")
+            if not yaml_field(y, "reviewed_at"):
+                fail(errors, f"{yaml_path.relative_to(ROOT)} missing reviewed_at")
+            if not yaml_field(y, "review_notes"):
+                fail(errors, f"{yaml_path.relative_to(ROOT)} missing review_notes")
             if not (yaml_field(y, "ghost_series_status") or yaml_field(y, "ghost_series_url")):
                 fail(errors, f"{yaml_path.relative_to(ROOT)} missing Ghost series field")
 
@@ -136,6 +154,10 @@ def main() -> int:
                 fail(errors, f"{readme_path.relative_to(ROOT)} does not link to its example")
             if "## Ghost backlinks" not in readme:
                 fail(errors, f"{readme_path.relative_to(ROOT)} missing Ghost backlinks section")
+            if "## Progression / use order" not in readme:
+                fail(errors, f"{readme_path.relative_to(ROOT)} missing progression/use order section")
+            if "docs/quality-standard.md" not in readme:
+                fail(errors, f"{readme_path.relative_to(ROOT)} does not link to quality standard")
 
     validate_banned_strings(errors)
 

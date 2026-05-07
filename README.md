@@ -22,3 +22,6 @@ Start with [START_HERE.md](START_HERE.md) if you want a role/workflow route befo
 2. Open the skill that matches the immediate job.
 3. Paste the skill into an agent prompt with the current context, or adapt it into a runtime-specific skill format.
 4. Keep human review gates for external, personnel, financial, legal, security, and high-impact decisions.
+
+## Quality checklist
+Every usable pack is reviewed against [the quality standard](docs/quality-standard.md): concrete use case, specific inputs, domain-specific workflow, structured output schema, real failure modes, human review gates, example prompt, and executable instructions. Pack metadata records `quality_status`, `reviewed_at`, and `review_notes`.

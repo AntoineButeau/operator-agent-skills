@@ -1,34 +1,44 @@
 # Weekly Report Upgrade
 
 ## Use when
-Use this workflow when a recurring report is unread, too long, or lacking interpretation.
+Use this workflow when you are working on goals / metrics / dashboards / reporting and need to handle the upgrade step without overlapping the other skills in the pack. Its distinct job inside the Decision Metrics Pack is to produce the weekly report upgrade; use the neighboring skills for Metric Quality Audit, Decision Dashboard Brief, Metric Owner Map.
 
 ## Inputs
-- Primary objective or decision to support
-- report draft, stakeholder needs, major changes, open decisions
-- Known constraints, deadlines, metric owners, decision makers, and reviewers, and risk tolerance
-- Existing artifacts such as notes, metrics, drafts, plans, or meeting records
+- Current operating context: team, owner, deadline, decision needed, and why this now matters.
+- Evidence: source-of-truth links, dashboards, customer notes, meeting records, CRM/project data, or draft artifacts.
+- Domain signals to inspect: metric owner, decision dashboard, operating review, leading indicator, scorecard.
+- Constraints: decision rights, budget or headcount limits, customer commitments, legal/security exposure, and review cadence.
+- Audience: accountable owner, reviewer, implementer, and anyone affected by the next operating review.
 
 ## Workflow
-1. Restate the operating problem in one sentence and name the decision or behavior this skill should improve.
-2. Separate facts, interpretations, assumptions, and missing evidence.
-3. Map the relevant actors, incentives, handoffs, constraints, and feedback loops.
-4. Generate two to four viable options, including the smallest useful next move.
-5. Recommend a path with rationale, risks, owner, cadence, and success signals.
-6. Produce the requested artifact in a format that can be reused by another operator or agent.
+1. Name the concrete use case in one sentence: decision to make, artifact to produce, owner, deadline, and the cost of doing nothing.
+2. Build an evidence table with facts, assumptions, missing source-of-truth links, and disputed signals; do not smooth over gaps.
+3. Inspect the domain mechanics for this pack: metric owner, decision dashboard, operating review, leading indicator, scorecard. Call out where handoffs, incentives, review gates, or decision rights break down.
+4. Separate this skill's job from the rest of the pack: deliver the weekly report upgrade, and list what should be routed to Metric Quality Audit, Decision Dashboard Brief, Metric Owner Map.
+5. Draft the artifact with owner, decision, options, tradeoffs, acceptance criteria, first action, and operating-review cadence.
+6. Add a human review gate for commitments, people claims, customer escalation, financial exposure, legal/security risk, or changes to a system of record.
+7. Finish with the smallest useful next move and the exact evidence a human must verify before acting.
 
 ## Output
-a rewritten report with signal, interpretation, and asks. Include the decision, owner, next action, review date, and open questions.
+Return a weekly report upgrade with this schema:
+- `use_case`: the specific operating situation and decision.
+- `evidence`: facts, source links, missing data, and assumption flags.
+- `diagnosis`: what is happening, why it matters, and which metric owner signal changed.
+- `options`: 2-4 paths with tradeoffs, owner, timing, and blast radius.
+- `recommendation`: chosen path, rationale, acceptance criteria, and decision rights.
+- `review_gates`: human approvals required before sending, changing records, or committing resources.
+- `next_move`: one action due within the next operating cadence.
 
 ## Human review gates
-- Review before sending to customers, employees, executives, or external partners.
-- Confirm sensitive personnel, financial, legal, security, or customer claims with the accountable human owner.
-- Ask for approval before changing systems of record or publishing the artifact.
+- Get the accountable owner to approve any recommendation that changes decision rights, budget, headcount, roadmap, pricing, customer commitment, or source-of-truth records.
+- Ask legal, security, finance, HR, or the customer owner to verify claims in their lane before the artifact is shared outside the working team.
+- Use an explicit review gate before publishing, sending to executives, or triggering a customer escalation.
 
 ## Failure modes
-- Treating symptoms as root causes because the workflow skipped evidence collection.
-- Optimizing for local clarity while ignoring incentives, politics, or cross-functional effects.
-- Producing a polished artifact without a clear owner, decision, or follow-up cadence.
+- Producing a generic consultant summary instead of a decision-ready weekly report upgrade tied to metric owner.
+- Treating stale dashboards, anecdotes, or meeting memory as facts without source-of-truth checks.
+- Blurring this skill with Metric Quality Audit, Decision Dashboard Brief, Metric Owner Map, which creates duplicate work and hides the real owner.
+- Skipping the human review gate for commitments, sensitive people/customer data, or system-of-record changes.
 
 ## Example prompt
-Run the Weekly Report Upgrade workflow for this situation: the current context below. Return the artifact, the recommendation, and the questions a human should answer before acting.
+Run the Weekly Report Upgrade workflow for the following Goals / Metrics / Dashboards / Reporting situation. Context: <describe team, decision, deadline, evidence links, owner, and known constraints>. Return the weekly report upgrade using the output schema, mark assumptions, and list the human review gates before anyone acts.

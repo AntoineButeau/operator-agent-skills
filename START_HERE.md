@@ -2,6 +2,9 @@
 
 Use this route map when you know the job but not the pack name.
 
+## Quality route
+Use packs marked `quality_status: usable` when you need agent-ready workflows. A usable pack must pass the [quality standard](docs/quality-standard.md): concrete use case, specific inputs, domain-specific workflow, structured output schema, real failure modes, human review gates, example prompt, and executable instructions.
+
 ## Managers
 - [Manager Operating System Pack](packs/01-expert-manager/README.md)
 - [Upward Signal Pack](packs/02-managing-up/README.md)
@@ -9,7 +12,7 @@ Use this route map when you know the job but not the pack name.
 - [Individual Operator Pack](packs/37-individual-operator/README.md)
 
 ## Executives and operators
-- [Executive Leverage Pack](packs/05-great-executive/README.md)
+- [Executive Attention Pack](packs/05-great-executive/README.md)
 - [Operating Cadence Pack](packs/11-operating-cadence/README.md)
 - [COO Operating Model Pack](packs/25-great-coo/README.md)
 - [BizOps Decision Support Pack](packs/33-bizops/README.md)

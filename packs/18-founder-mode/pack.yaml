@@ -1,16 +1,19 @@
 id: "founder-mode"
 series_number: 18
-name: "Founder Leverage Pack"
+name: "Founder Operating Mode Pack"
 slug: "founder-mode"
 source_series_name: "Founder Mode That Actually Scales"
 ghost_tag: "founder-mode"
-maturity: "draft"
+maturity: "usable"
+quality_status: "usable"
+reviewed_at: "2026-05-06"
+review_notes: "Pack reviewed for coherent four-skill progression, distinct skill jobs, operator-specific workflows, output schemas, review gates, and practical failure modes."
 ghost_series_status: "draft_or_individual_posts"
-source_path: null
-source_plan: null
+source_path: "null"
+source_plan: "null"
 skills:
   - id: "founder-leverage-audit"
-    name: "Founder Leverage Audit"
+    name: "Founder Bottleneck Audit"
     path: "skills/founder-leverage-audit.md"
   - id: "founder-context-capture"
     name: "Founder Context Capture"
