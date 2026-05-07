@@ -23,5 +23,15 @@ Start with [START_HERE.md](START_HERE.md) if you want a role/workflow route befo
 3. Paste the skill into an agent prompt with the current context, or adapt it into a runtime-specific skill format.
 4. Keep human review gates for external, personnel, financial, legal, security, and high-impact decisions.
 
+## Agent loading protocol
+Coding agents should treat this repository as a context library, not a single document to ingest.
+
+- Read [AGENTS.md](AGENTS.md) for the source-of-truth protocol.
+- Read [CLAUDE.md](CLAUDE.md) for Claude Code and cowork-style usage.
+- Read [CODEX.md](CODEX.md) for Codex and coding-agent usage.
+- Use [docs/context-loading.md](docs/context-loading.md) for token/loading strategy.
+
+In short: start from `START_HERE.md`, `manifest.json`, or an index; select one pack and one skill; load only the pack README, selected skill, and optional example; preserve review gates and output schemas.
+
 ## Quality checklist
 Every usable pack is reviewed against [the quality standard](docs/quality-standard.md): concrete use case, specific inputs, domain-specific workflow, structured output schema, real failure modes, human review gates, example prompt, and executable instructions. Pack metadata records `quality_status`, `reviewed_at`, and `review_notes`.

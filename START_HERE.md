@@ -2,6 +2,8 @@
 
 Use this route map when you know the job but not the pack name.
 
+For coding agents, use this file as a navigation layer only: choose one pack, then one skill, then load the pack README and selected skill. See [AGENTS.md](AGENTS.md) and [docs/context-loading.md](docs/context-loading.md) for the full loading protocol.
+
 ## Quality route
 Use packs marked `quality_status: usable` when you need agent-ready workflows. A usable pack must pass the [quality standard](docs/quality-standard.md): concrete use case, specific inputs, domain-specific workflow, structured output schema, real failure modes, human review gates, example prompt, and executable instructions.
 
