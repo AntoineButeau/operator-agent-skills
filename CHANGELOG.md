@@ -1,5 +1,16 @@
 # Changelog
 
+## Unreleased
+
+### Added
+
+- Added Wardley Mapping Pack as pack 73, bringing the library to 73 packs and 292 skills.
+- Added workflows for strategic landscape mapping, value-chain dependency mapping, evolution/operating-model fit checks, and doctrine/gameplay decision briefs.
+
+### Quality
+
+- Validation passes with `73 packs, 292 skills`.
+
 ## v0.1.0 — Initial Operator Agent Skills Library
 
 Release date: 2026-05-06

@@ -24,6 +24,7 @@
 - [Workflow Ontology Pack](../packs/48-workflow-ontology/README.md) — Workflow Ontology; quality `usable`.
 - [Systems of Record Pack](../packs/59-systems-of-record/README.md) — Systems of Record: Who Owns the Truth?; quality `usable`.
 - [Reality Contact Pack](../packs/72-reality-contact/README.md) — Reality Contact: Escaping the Introspection Trap; quality `usable`.
+- [Wardley Mapping Pack](../packs/73-wardley-mapping/README.md) — Wardley Mapping for Operators: How to See the Strategic Landscape; quality `usable`.
 
 ## GTM and revenue
 - [Pricing Decision Pack](../packs/09-pricing-packaging/README.md) — Pricing and Packaging; quality `usable`.
@@ -61,6 +62,7 @@
 - [AI Context Layer Pack](../packs/60-ai-context-layer/README.md) — The AI Context Layer: Giving Agents a Business Model They Can Safely Use; quality `usable`.
 - [Platform Strategy Pack](../packs/69-platform-strategy/README.md) — Platform Strategy; quality `usable`.
 - [Product Operations Pack](../packs/71-product-operations/README.md) — Product Operations That Actually Helps Product Teams Ship; quality `usable`.
+- [Wardley Mapping Pack](../packs/73-wardley-mapping/README.md) — Wardley Mapping for Operators: How to See the Strategic Landscape; quality `usable`.
 
 ## Communication, change, and org systems
 - [Personal Knowledge OS Pack](../packs/03-personal-productivity-km/README.md) — Personal Productivity + Knowledge Management; quality `usable`.

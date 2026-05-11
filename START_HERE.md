@@ -28,6 +28,7 @@ Use packs marked `quality_status: usable` when you need agent-ready workflows. A
 - [Workflow Ontology Pack](packs/48-workflow-ontology/README.md)
 - [Systems of Record Pack](packs/59-systems-of-record/README.md)
 - [Reality Contact Pack](packs/72-reality-contact/README.md)
+- [Wardley Mapping Pack](packs/73-wardley-mapping/README.md)
 
 ## GTM and revenue
 - [Pricing Decision Pack](packs/09-pricing-packaging/README.md)
@@ -65,6 +66,7 @@ Use packs marked `quality_status: usable` when you need agent-ready workflows. A
 - [AI Context Layer Pack](packs/60-ai-context-layer/README.md)
 - [Platform Strategy Pack](packs/69-platform-strategy/README.md)
 - [Product Operations Pack](packs/71-product-operations/README.md)
+- [Wardley Mapping Pack](packs/73-wardley-mapping/README.md)
 
 ## Communication, change, and org systems
 - [Personal Knowledge OS Pack](packs/03-personal-productivity-km/README.md)

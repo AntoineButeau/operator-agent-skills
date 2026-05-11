@@ -432,3 +432,8 @@
 - **Belief Update Review** (`packs/72-reality-contact/skills/belief-update-review.md`) — quality `usable`, maturity `usable`.
 - **Reality Contact Cadence** (`packs/72-reality-contact/skills/reality-contact-cadence.md`) — quality `usable`, maturity `usable`.
 
+## 73. Wardley Mapping Pack
+- **Strategic Landscape Map Builder** (`packs/73-wardley-mapping/skills/strategic-landscape-map-builder.md`) — quality `usable`, maturity `usable`.
+- **Value Chain Dependency Mapper** (`packs/73-wardley-mapping/skills/value-chain-dependency-mapper.md`) — quality `usable`, maturity `usable`.
+- **Evolution Operating Model Fit Check** (`packs/73-wardley-mapping/skills/evolution-operating-model-fit-check.md`) — quality `usable`, maturity `usable`.
+- **Doctrine Gameplay Decision Brief** (`packs/73-wardley-mapping/skills/doctrine-gameplay-decision-brief.md`) — quality `usable`, maturity `usable`.
