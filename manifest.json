@@ -2,7 +2,7 @@
   "name": "operator-agent-skills",
   "description": "Reusable operator-agent workflow skill packs derived from Antoine Buteau content series. These are portable workflow specifications, not OpenClaw runtime skills yet.",
   "private": true,
-  "pack_count": 39,
+  "pack_count": 72,
   "packs": [
     {
       "id": "expert-manager",
@@ -1368,10 +1368,1165 @@
       "quality_status": "usable",
       "reviewed_at": "2026-05-06",
       "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "forward-deployed-company",
+      "series_number": 40,
+      "name": "Forward-Deployed Company Pack",
+      "source_series_name": "The Forward-Deployed Company",
+      "ghost_tag": "forward-deployed-company",
+      "path": "packs/40-forward-deployed-company",
+      "skills": [
+        {
+          "id": "field-operating-model-map",
+          "name": "Field Operating Model Map",
+          "path": "skills/field-operating-model-map.md"
+        },
+        {
+          "id": "embedded-team-scope-brief",
+          "name": "Embedded Team Scope Brief",
+          "path": "skills/embedded-team-scope-brief.md"
+        },
+        {
+          "id": "customer-feedback-loop-design",
+          "name": "Customer Feedback Loop Design",
+          "path": "skills/customer-feedback-loop-design.md"
+        },
+        {
+          "id": "deployment-risk-review",
+          "name": "Deployment Risk Review",
+          "path": "skills/deployment-risk-review.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "finops-ai-era",
+      "series_number": 41,
+      "name": "AI-Era FinOps Pack",
+      "source_series_name": "FinOps for the AI Era",
+      "ghost_tag": "finops-ai-era",
+      "path": "packs/41-finops-ai-era",
+      "skills": [
+        {
+          "id": "ai-cost-visibility-map",
+          "name": "AI Cost Visibility Map",
+          "path": "skills/ai-cost-visibility-map.md"
+        },
+        {
+          "id": "model-spend-governance-brief",
+          "name": "Model Spend Governance Brief",
+          "path": "skills/model-spend-governance-brief.md"
+        },
+        {
+          "id": "unit-economics-scenario-review",
+          "name": "Unit Economics Scenario Review",
+          "path": "skills/unit-economics-scenario-review.md"
+        },
+        {
+          "id": "optimization-backlog-builder",
+          "name": "Optimization Backlog Builder",
+          "path": "skills/optimization-backlog-builder.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "network-effects",
+      "series_number": 42,
+      "name": "Network Effects Pack",
+      "source_series_name": "Network Effects That Actually Compound",
+      "ghost_tag": "network-effects",
+      "path": "packs/42-network-effects",
+      "skills": [
+        {
+          "id": "network-loop-map",
+          "name": "Network Loop Map",
+          "path": "skills/network-loop-map.md"
+        },
+        {
+          "id": "cold-start-risk-scan",
+          "name": "Cold Start Risk Scan",
+          "path": "skills/cold-start-risk-scan.md"
+        },
+        {
+          "id": "liquidity-metric-design",
+          "name": "Liquidity Metric Design",
+          "path": "skills/liquidity-metric-design.md"
+        },
+        {
+          "id": "defensibility-review",
+          "name": "Defensibility Review",
+          "path": "skills/defensibility-review.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "company-hidden-data-model",
+      "series_number": 43,
+      "name": "Hidden Data Model Pack",
+      "source_series_name": "The Company\u2019s Hidden Data Model",
+      "ghost_tag": "hidden-data-model",
+      "path": "packs/43-company-hidden-data-model",
+      "skills": [
+        {
+          "id": "hidden-data-model-map",
+          "name": "Hidden Data Model Map",
+          "path": "skills/hidden-data-model-map.md"
+        },
+        {
+          "id": "entity-ownership-audit",
+          "name": "Entity Ownership Audit",
+          "path": "skills/entity-ownership-audit.md"
+        },
+        {
+          "id": "shadow-data-reconciliation-plan",
+          "name": "Shadow Data Reconciliation Plan",
+          "path": "skills/shadow-data-reconciliation-plan.md"
+        },
+        {
+          "id": "decision-data-fit-review",
+          "name": "Decision Data Fit Review",
+          "path": "skills/decision-data-fit-review.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "mastery-operating-system",
+      "series_number": 44,
+      "name": "Mastery Operating System Pack",
+      "source_series_name": "Mastery Is an Operating System",
+      "ghost_tag": "mastery-operating-system",
+      "path": "packs/44-mastery-operating-system",
+      "skills": [
+        {
+          "id": "mastery-loop-map",
+          "name": "Mastery Loop Map",
+          "path": "skills/mastery-loop-map.md"
+        },
+        {
+          "id": "deliberate-practice-plan",
+          "name": "Deliberate Practice Plan",
+          "path": "skills/deliberate-practice-plan.md"
+        },
+        {
+          "id": "feedback-quality-review",
+          "name": "Feedback Quality Review",
+          "path": "skills/feedback-quality-review.md"
+        },
+        {
+          "id": "skill-progression-scorecard",
+          "name": "Skill Progression Scorecard",
+          "path": "skills/skill-progression-scorecard.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "taste-bottleneck",
+      "series_number": 45,
+      "name": "Taste Bottleneck Pack",
+      "source_series_name": "Taste Is the Bottleneck",
+      "ghost_tag": "taste-is-the-bottleneck",
+      "path": "packs/45-taste-bottleneck",
+      "skills": [
+        {
+          "id": "taste-gap-diagnosis",
+          "name": "Taste Gap Diagnosis",
+          "path": "skills/taste-gap-diagnosis.md"
+        },
+        {
+          "id": "reference-set-builder",
+          "name": "Reference Set Builder",
+          "path": "skills/reference-set-builder.md"
+        },
+        {
+          "id": "quality-bar-review",
+          "name": "Quality Bar Review",
+          "path": "skills/quality-bar-review.md"
+        },
+        {
+          "id": "taste-calibration-loop",
+          "name": "Taste Calibration Loop",
+          "path": "skills/taste-calibration-loop.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "right-depth-problem",
+      "series_number": 46,
+      "name": "Right Depth Pack",
+      "source_series_name": "The Right Depth for the Problem",
+      "ghost_tag": "right-depth-problem",
+      "path": "packs/46-right-depth-problem",
+      "skills": [
+        {
+          "id": "depth-selection-check",
+          "name": "Depth Selection Check",
+          "path": "skills/depth-selection-check.md"
+        },
+        {
+          "id": "analysis-scope-cutter",
+          "name": "Analysis Scope Cutter",
+          "path": "skills/analysis-scope-cutter.md"
+        },
+        {
+          "id": "precision-risk-review",
+          "name": "Precision Risk Review",
+          "path": "skills/precision-risk-review.md"
+        },
+        {
+          "id": "decision-depth-brief",
+          "name": "Decision Depth Brief",
+          "path": "skills/decision-depth-brief.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "operating-reviews",
+      "series_number": 47,
+      "name": "Operating Review Pack",
+      "source_series_name": "Operating Reviews That Actually Drive Decisions",
+      "ghost_tag": "operating-reviews",
+      "path": "packs/47-operating-reviews",
+      "skills": [
+        {
+          "id": "operating-review-agenda-builder",
+          "name": "Operating Review Agenda Builder",
+          "path": "skills/operating-review-agenda-builder.md"
+        },
+        {
+          "id": "decision-followthrough-audit",
+          "name": "Decision Followthrough Audit",
+          "path": "skills/decision-followthrough-audit.md"
+        },
+        {
+          "id": "metric-narrative-review",
+          "name": "Metric Narrative Review",
+          "path": "skills/metric-narrative-review.md"
+        },
+        {
+          "id": "review-cadence-redesign",
+          "name": "Review Cadence Redesign",
+          "path": "skills/review-cadence-redesign.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "workflow-ontology",
+      "series_number": 48,
+      "name": "Workflow Ontology Pack",
+      "source_series_name": "Workflow Ontology",
+      "ghost_tag": "workflow-ontology",
+      "path": "packs/48-workflow-ontology",
+      "skills": [
+        {
+          "id": "workflow-entity-map",
+          "name": "Workflow Entity Map",
+          "path": "skills/workflow-entity-map.md"
+        },
+        {
+          "id": "state-transition-audit",
+          "name": "State Transition Audit",
+          "path": "skills/state-transition-audit.md"
+        },
+        {
+          "id": "work-object-taxonomy",
+          "name": "Work Object Taxonomy",
+          "path": "skills/work-object-taxonomy.md"
+        },
+        {
+          "id": "ontology-change-control",
+          "name": "Ontology Change Control",
+          "path": "skills/ontology-change-control.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "ai-work-design",
+      "series_number": 49,
+      "name": "AI Work Design Pack",
+      "source_series_name": "Work Design for the AI Era",
+      "ghost_tag": "work-design-ai",
+      "path": "packs/49-ai-work-design",
+      "skills": [
+        {
+          "id": "ai-work-allocation-map",
+          "name": "AI Work Allocation Map",
+          "path": "skills/ai-work-allocation-map.md"
+        },
+        {
+          "id": "human-agent-handoff-design",
+          "name": "Human-Agent Handoff Design",
+          "path": "skills/human-agent-handoff-design.md"
+        },
+        {
+          "id": "role-redesign-brief",
+          "name": "Role Redesign Brief",
+          "path": "skills/role-redesign-brief.md"
+        },
+        {
+          "id": "work-design-risk-review",
+          "name": "Work Design Risk Review",
+          "path": "skills/work-design-risk-review.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "ai-throughput",
+      "series_number": 50,
+      "name": "AI Throughput Pack",
+      "source_series_name": "From Productivity to Throughput",
+      "ghost_tag": "ai-throughput",
+      "path": "packs/50-ai-throughput",
+      "skills": [
+        {
+          "id": "throughput-constraint-map",
+          "name": "Throughput Constraint Map",
+          "path": "skills/throughput-constraint-map.md"
+        },
+        {
+          "id": "queue-health-review",
+          "name": "Queue Health Review",
+          "path": "skills/queue-health-review.md"
+        },
+        {
+          "id": "agent-leverage-plan",
+          "name": "Agent Leverage Plan",
+          "path": "skills/agent-leverage-plan.md"
+        },
+        {
+          "id": "throughput-metric-design",
+          "name": "Throughput Metric Design",
+          "path": "skills/throughput-metric-design.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "ai-control-plane",
+      "series_number": 51,
+      "name": "AI Control Plane Pack",
+      "source_series_name": "The AI Control Plane",
+      "ghost_tag": "ai-control-plane",
+      "path": "packs/51-ai-control-plane",
+      "skills": [
+        {
+          "id": "agent-registry-map",
+          "name": "Agent Registry Map",
+          "path": "skills/agent-registry-map.md"
+        },
+        {
+          "id": "permission-boundary-review",
+          "name": "Permission Boundary Review",
+          "path": "skills/permission-boundary-review.md"
+        },
+        {
+          "id": "control-plane-operating-policy",
+          "name": "Control Plane Operating Policy",
+          "path": "skills/control-plane-operating-policy.md"
+        },
+        {
+          "id": "agent-incident-retrospective",
+          "name": "Agent Incident Retrospective",
+          "path": "skills/agent-incident-retrospective.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "agent-native-tools",
+      "series_number": 52,
+      "name": "Agent-Native Tools Pack",
+      "source_series_name": "Agent-Native Tools",
+      "ghost_tag": "agent-native-tools",
+      "path": "packs/52-agent-native-tools",
+      "skills": [
+        {
+          "id": "agent-tool-fit-check",
+          "name": "Agent Tool Fit Check",
+          "path": "skills/agent-tool-fit-check.md"
+        },
+        {
+          "id": "tool-context-contract",
+          "name": "Tool Context Contract",
+          "path": "skills/tool-context-contract.md"
+        },
+        {
+          "id": "agent-ux-review",
+          "name": "Agent UX Review",
+          "path": "skills/agent-ux-review.md"
+        },
+        {
+          "id": "tool-evaluation-plan",
+          "name": "Tool Evaluation Plan",
+          "path": "skills/tool-evaluation-plan.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "harness-engineering",
+      "series_number": 53,
+      "name": "Harness Engineering Pack",
+      "source_series_name": "Harness Engineering: The Runtime Layer Around AI Agents",
+      "ghost_tag": "harness-engineering",
+      "path": "packs/53-harness-engineering",
+      "skills": [
+        {
+          "id": "agent-runtime-architecture-map",
+          "name": "Agent Runtime Architecture Map",
+          "path": "skills/agent-runtime-architecture-map.md"
+        },
+        {
+          "id": "eval-harness-spec",
+          "name": "Eval Harness Spec",
+          "path": "skills/eval-harness-spec.md"
+        },
+        {
+          "id": "context-window-management-plan",
+          "name": "Context Window Management Plan",
+          "path": "skills/context-window-management-plan.md"
+        },
+        {
+          "id": "runtime-failure-mode-review",
+          "name": "Runtime Failure Mode Review",
+          "path": "skills/runtime-failure-mode-review.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "ai-quality-systems",
+      "series_number": 54,
+      "name": "AI Quality Systems Pack",
+      "source_series_name": "AI Quality Systems",
+      "ghost_tag": "ai-quality-systems",
+      "path": "packs/54-ai-quality-systems",
+      "skills": [
+        {
+          "id": "ai-quality-bar-definition",
+          "name": "AI Quality Bar Definition",
+          "path": "skills/ai-quality-bar-definition.md"
+        },
+        {
+          "id": "eval-suite-builder",
+          "name": "Eval Suite Builder",
+          "path": "skills/eval-suite-builder.md"
+        },
+        {
+          "id": "model-behavior-drift-review",
+          "name": "Model Behavior Drift Review",
+          "path": "skills/model-behavior-drift-review.md"
+        },
+        {
+          "id": "quality-incident-response-plan",
+          "name": "Quality Incident Response Plan",
+          "path": "skills/quality-incident-response-plan.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "ai-adoption-company",
+      "series_number": 55,
+      "name": "AI Adoption Pack",
+      "source_series_name": "AI Adoption That Actually Changes the Company",
+      "ghost_tag": "ai-adoption-company",
+      "path": "packs/55-ai-adoption-company",
+      "skills": [
+        {
+          "id": "ai-adoption-readiness-map",
+          "name": "AI Adoption Readiness Map",
+          "path": "skills/ai-adoption-readiness-map.md"
+        },
+        {
+          "id": "behavior-change-plan",
+          "name": "Behavior Change Plan",
+          "path": "skills/behavior-change-plan.md"
+        },
+        {
+          "id": "adoption-friction-diagnosis",
+          "name": "Adoption Friction Diagnosis",
+          "path": "skills/adoption-friction-diagnosis.md"
+        },
+        {
+          "id": "adoption-measurement-system",
+          "name": "Adoption Measurement System",
+          "path": "skills/adoption-measurement-system.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "intelligence-economics",
+      "series_number": 56,
+      "name": "Intelligence Economics Pack",
+      "source_series_name": "The Economics of Intelligence",
+      "ghost_tag": "intelligence-economics",
+      "path": "packs/56-intelligence-economics",
+      "skills": [
+        {
+          "id": "intelligence-cost-curve-map",
+          "name": "Intelligence Cost Curve Map",
+          "path": "skills/intelligence-cost-curve-map.md"
+        },
+        {
+          "id": "build-buy-model-routing-brief",
+          "name": "Build Buy Model Routing Brief",
+          "path": "skills/build-buy-model-routing-brief.md"
+        },
+        {
+          "id": "automation-roi-sensitivity-review",
+          "name": "Automation ROI Sensitivity Review",
+          "path": "skills/automation-roi-sensitivity-review.md"
+        },
+        {
+          "id": "intelligence-allocation-plan",
+          "name": "Intelligence Allocation Plan",
+          "path": "skills/intelligence-allocation-plan.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "ai-native-security",
+      "series_number": 57,
+      "name": "AI-Native Security Pack",
+      "source_series_name": "The AI-Native Security Model",
+      "ghost_tag": "ai-native-security",
+      "path": "packs/57-ai-native-security",
+      "skills": [
+        {
+          "id": "agent-threat-model",
+          "name": "Agent Threat Model",
+          "path": "skills/agent-threat-model.md"
+        },
+        {
+          "id": "data-permission-review",
+          "name": "Data Permission Review",
+          "path": "skills/data-permission-review.md"
+        },
+        {
+          "id": "ai-security-control-map",
+          "name": "AI Security Control Map",
+          "path": "skills/ai-security-control-map.md"
+        },
+        {
+          "id": "red-team-findings-brief",
+          "name": "Red-Team Findings Brief",
+          "path": "skills/red-team-findings-brief.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "semantic-layer",
+      "series_number": 58,
+      "name": "Semantic Layer Pack",
+      "source_series_name": "The Semantic Layer: Where Business Meaning Becomes Infrastructure",
+      "ghost_tag": "semantic-layer",
+      "path": "packs/58-semantic-layer",
+      "skills": [
+        {
+          "id": "business-term-definition-map",
+          "name": "Business Term Definition Map",
+          "path": "skills/business-term-definition-map.md"
+        },
+        {
+          "id": "metric-semantic-audit",
+          "name": "Metric Semantic Audit",
+          "path": "skills/metric-semantic-audit.md"
+        },
+        {
+          "id": "semantic-layer-change-plan",
+          "name": "Semantic Layer Change Plan",
+          "path": "skills/semantic-layer-change-plan.md"
+        },
+        {
+          "id": "meaning-to-infrastructure-brief",
+          "name": "Meaning to Infrastructure Brief",
+          "path": "skills/meaning-to-infrastructure-brief.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "systems-of-record",
+      "series_number": 59,
+      "name": "Systems of Record Pack",
+      "source_series_name": "Systems of Record: Who Owns the Truth?",
+      "ghost_tag": "systems-of-record",
+      "path": "packs/59-systems-of-record",
+      "skills": [
+        {
+          "id": "source-of-truth-map",
+          "name": "Source of Truth Map",
+          "path": "skills/source-of-truth-map.md"
+        },
+        {
+          "id": "record-ownership-review",
+          "name": "Record Ownership Review",
+          "path": "skills/record-ownership-review.md"
+        },
+        {
+          "id": "truth-conflict-resolution-plan",
+          "name": "Truth Conflict Resolution Plan",
+          "path": "skills/truth-conflict-resolution-plan.md"
+        },
+        {
+          "id": "system-of-record-change-brief",
+          "name": "System of Record Change Brief",
+          "path": "skills/system-of-record-change-brief.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "ai-context-layer",
+      "series_number": 60,
+      "name": "AI Context Layer Pack",
+      "source_series_name": "The AI Context Layer: Giving Agents a Business Model They Can Safely Use",
+      "ghost_tag": "ai-context-layer",
+      "path": "packs/60-ai-context-layer",
+      "skills": [
+        {
+          "id": "agent-context-inventory",
+          "name": "Agent Context Inventory",
+          "path": "skills/agent-context-inventory.md"
+        },
+        {
+          "id": "context-contract-design",
+          "name": "Context Contract Design",
+          "path": "skills/context-contract-design.md"
+        },
+        {
+          "id": "context-risk-review",
+          "name": "Context Risk Review",
+          "path": "skills/context-risk-review.md"
+        },
+        {
+          "id": "business-model-for-agents-brief",
+          "name": "Business Model for Agents Brief",
+          "path": "skills/business-model-for-agents-brief.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "trust-compounding",
+      "series_number": 61,
+      "name": "Trust Compounding Pack",
+      "source_series_name": "Trust That Actually Compounds",
+      "ghost_tag": "trust-that-compounds",
+      "path": "packs/61-trust-compounding",
+      "skills": [
+        {
+          "id": "trust-signal-map",
+          "name": "Trust Signal Map",
+          "path": "skills/trust-signal-map.md"
+        },
+        {
+          "id": "commitment-reliability-review",
+          "name": "Commitment Reliability Review",
+          "path": "skills/commitment-reliability-review.md"
+        },
+        {
+          "id": "trust-repair-plan",
+          "name": "Trust Repair Plan",
+          "path": "skills/trust-repair-plan.md"
+        },
+        {
+          "id": "compounding-trust-loop",
+          "name": "Compounding Trust Loop",
+          "path": "skills/compounding-trust-loop.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "social-awareness-operators",
+      "series_number": 62,
+      "name": "Social Awareness Operator Pack",
+      "source_series_name": "Social Awareness for Operators",
+      "ghost_tag": "social-awareness-operators",
+      "path": "packs/62-social-awareness-operators",
+      "skills": [
+        {
+          "id": "room-read-map",
+          "name": "Room Read Map",
+          "path": "skills/room-read-map.md"
+        },
+        {
+          "id": "stakeholder-empathy-brief",
+          "name": "Stakeholder Empathy Brief",
+          "path": "skills/stakeholder-empathy-brief.md"
+        },
+        {
+          "id": "social-signal-risk-scan",
+          "name": "Social Signal Risk Scan",
+          "path": "skills/social-signal-risk-scan.md"
+        },
+        {
+          "id": "meeting-dynamics-review",
+          "name": "Meeting Dynamics Review",
+          "path": "skills/meeting-dynamics-review.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "conflict-without-damage",
+      "series_number": 63,
+      "name": "Conflict Without Damage Pack",
+      "source_series_name": "Conflict Without Damage",
+      "ghost_tag": "conflict-without-damage",
+      "path": "packs/63-conflict-without-damage",
+      "skills": [
+        {
+          "id": "conflict-pattern-diagnosis",
+          "name": "Conflict Pattern Diagnosis",
+          "path": "skills/conflict-pattern-diagnosis.md"
+        },
+        {
+          "id": "clean-disagreement-brief",
+          "name": "Clean Disagreement Brief",
+          "path": "skills/clean-disagreement-brief.md"
+        },
+        {
+          "id": "repair-conversation-plan",
+          "name": "Repair Conversation Plan",
+          "path": "skills/repair-conversation-plan.md"
+        },
+        {
+          "id": "conflict-escalation-check",
+          "name": "Conflict Escalation Check",
+          "path": "skills/conflict-escalation-check.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "self-regulation-operators",
+      "series_number": 64,
+      "name": "Self-Regulation Operator Pack",
+      "source_series_name": "Self-Regulation for Operators",
+      "ghost_tag": "self-regulation-operators",
+      "path": "packs/64-self-regulation-operators",
+      "skills": [
+        {
+          "id": "trigger-pattern-map",
+          "name": "Trigger Pattern Map",
+          "path": "skills/trigger-pattern-map.md"
+        },
+        {
+          "id": "response-gap-plan",
+          "name": "Response Gap Plan",
+          "path": "skills/response-gap-plan.md"
+        },
+        {
+          "id": "emotional-load-review",
+          "name": "Emotional Load Review",
+          "path": "skills/emotional-load-review.md"
+        },
+        {
+          "id": "operator-reset-protocol",
+          "name": "Operator Reset Protocol",
+          "path": "skills/operator-reset-protocol.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "influence-without-manipulation",
+      "series_number": 65,
+      "name": "Ethical Influence Pack",
+      "source_series_name": "Influence Without Manipulation",
+      "ghost_tag": "influence-without-manipulation",
+      "path": "packs/65-influence-without-manipulation",
+      "skills": [
+        {
+          "id": "influence-intent-check",
+          "name": "Influence Intent Check",
+          "path": "skills/influence-intent-check.md"
+        },
+        {
+          "id": "stakeholder-motivation-map",
+          "name": "Stakeholder Motivation Map",
+          "path": "skills/stakeholder-motivation-map.md"
+        },
+        {
+          "id": "ethical-persuasion-brief",
+          "name": "Ethical Persuasion Brief",
+          "path": "skills/ethical-persuasion-brief.md"
+        },
+        {
+          "id": "manipulation-risk-review",
+          "name": "Manipulation Risk Review",
+          "path": "skills/manipulation-risk-review.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "people-systems",
+      "series_number": 66,
+      "name": "People Systems Pack",
+      "source_series_name": "People Systems That Actually Raise the Bar",
+      "ghost_tag": "people-systems",
+      "path": "packs/66-people-systems",
+      "skills": [
+        {
+          "id": "talent-bar-definition",
+          "name": "Talent Bar Definition",
+          "path": "skills/talent-bar-definition.md"
+        },
+        {
+          "id": "hiring-signal-scorecard",
+          "name": "Hiring Signal Scorecard",
+          "path": "skills/hiring-signal-scorecard.md"
+        },
+        {
+          "id": "performance-system-review",
+          "name": "Performance System Review",
+          "path": "skills/performance-system-review.md"
+        },
+        {
+          "id": "promotion-calibration-brief",
+          "name": "Promotion Calibration Brief",
+          "path": "skills/promotion-calibration-brief.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "product-strategy-choices",
+      "series_number": 67,
+      "name": "Product Strategy Choices Pack",
+      "source_series_name": "Product Strategy That Actually Makes Choices",
+      "ghost_tag": "product-strategy",
+      "path": "packs/67-product-strategy-choices",
+      "skills": [
+        {
+          "id": "product-choice-map",
+          "name": "Product Choice Map",
+          "path": "skills/product-choice-map.md"
+        },
+        {
+          "id": "roadmap-tradeoff-brief",
+          "name": "Roadmap Tradeoff Brief",
+          "path": "skills/roadmap-tradeoff-brief.md"
+        },
+        {
+          "id": "strategy-fit-review",
+          "name": "Strategy Fit Review",
+          "path": "skills/strategy-fit-review.md"
+        },
+        {
+          "id": "choice-communication-plan",
+          "name": "Choice Communication Plan",
+          "path": "skills/choice-communication-plan.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "discovery-customer-research",
+      "series_number": 68,
+      "name": "Discovery Research Pack",
+      "source_series_name": "Discovery and Customer Research Without Theater",
+      "ghost_tag": "discovery",
+      "path": "packs/68-discovery-customer-research",
+      "skills": [
+        {
+          "id": "research-question-framing",
+          "name": "Research Question Framing",
+          "path": "skills/research-question-framing.md"
+        },
+        {
+          "id": "customer-signal-synthesis",
+          "name": "Customer Signal Synthesis",
+          "path": "skills/customer-signal-synthesis.md"
+        },
+        {
+          "id": "discovery-theater-audit",
+          "name": "Discovery Theater Audit",
+          "path": "skills/discovery-theater-audit.md"
+        },
+        {
+          "id": "research-to-decision-brief",
+          "name": "Research to Decision Brief",
+          "path": "skills/research-to-decision-brief.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "platform-strategy",
+      "series_number": 69,
+      "name": "Platform Strategy Pack",
+      "source_series_name": "Platform Strategy",
+      "ghost_tag": "platform-strategy",
+      "path": "packs/69-platform-strategy",
+      "skills": [
+        {
+          "id": "platform-boundary-map",
+          "name": "Platform Boundary Map",
+          "path": "skills/platform-boundary-map.md"
+        },
+        {
+          "id": "ecosystem-incentive-review",
+          "name": "Ecosystem Incentive Review",
+          "path": "skills/ecosystem-incentive-review.md"
+        },
+        {
+          "id": "platform-investment-brief",
+          "name": "Platform Investment Brief",
+          "path": "skills/platform-investment-brief.md"
+        },
+        {
+          "id": "platform-governance-plan",
+          "name": "Platform Governance Plan",
+          "path": "skills/platform-governance-plan.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "competitive-strategy",
+      "series_number": 70,
+      "name": "Competitive Strategy Pack",
+      "source_series_name": "Competitive Strategy",
+      "ghost_tag": "competitive-strategy",
+      "path": "packs/70-competitive-strategy",
+      "skills": [
+        {
+          "id": "competitive-position-map",
+          "name": "Competitive Position Map",
+          "path": "skills/competitive-position-map.md"
+        },
+        {
+          "id": "moat-evidence-review",
+          "name": "Moat Evidence Review",
+          "path": "skills/moat-evidence-review.md"
+        },
+        {
+          "id": "competitive-response-brief",
+          "name": "Competitive Response Brief",
+          "path": "skills/competitive-response-brief.md"
+        },
+        {
+          "id": "strategy-war-game",
+          "name": "Strategy War Game",
+          "path": "skills/strategy-war-game.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "product-operations",
+      "series_number": 71,
+      "name": "Product Operations Pack",
+      "source_series_name": "Product Operations That Actually Helps Product Teams Ship",
+      "ghost_tag": "product-operations",
+      "path": "packs/71-product-operations",
+      "skills": [
+        {
+          "id": "product-ops-intake-map",
+          "name": "Product Ops Intake Map",
+          "path": "skills/product-ops-intake-map.md"
+        },
+        {
+          "id": "launch-readiness-system",
+          "name": "Launch Readiness System",
+          "path": "skills/launch-readiness-system.md"
+        },
+        {
+          "id": "product-feedback-routing",
+          "name": "Product Feedback Routing",
+          "path": "skills/product-feedback-routing.md"
+        },
+        {
+          "id": "product-team-operating-review",
+          "name": "Product Team Operating Review",
+          "path": "skills/product-team-operating-review.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "reality-contact",
+      "series_number": 72,
+      "name": "Reality Contact Pack",
+      "source_series_name": "Reality Contact: Escaping the Introspection Trap",
+      "ghost_tag": "reality-contact",
+      "path": "packs/72-reality-contact",
+      "skills": [
+        {
+          "id": "introspection-trap-diagnosis",
+          "name": "Introspection Trap Diagnosis",
+          "path": "skills/introspection-trap-diagnosis.md"
+        },
+        {
+          "id": "external-signal-plan",
+          "name": "External Signal Plan",
+          "path": "skills/external-signal-plan.md"
+        },
+        {
+          "id": "belief-update-review",
+          "name": "Belief Update Review",
+          "path": "skills/belief-update-review.md"
+        },
+        {
+          "id": "reality-contact-cadence",
+          "name": "Reality Contact Cadence",
+          "path": "skills/reality-contact-cadence.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_status": "draft_or_individual_posts",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-11",
+      "review_notes": "Reviewed for coherent pack progression, distinct skill jobs, domain-specific workflow language, output schema, review gates, and failure modes."
     }
   ],
-  "skill_count": 156,
+  "skill_count": 288,
   "quality_standard": "docs/quality-standard.md",
-  "usable_pack_count": 39,
+  "usable_pack_count": 72,
   "draft_pack_count": 0
 }

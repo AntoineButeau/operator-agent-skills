@@ -10,13 +10,13 @@ They are intentionally packaged as portable Markdown and YAML rather than tied t
 
 - **Repository visibility:** currently private. Do not assume the GitHub URL is public until the launch decision is finalized.
 - **Release:** `v0.1.0` initial release candidate / first usable library release.
-- **Quality status:** all 39 packs and 156 skills are marked `usable` in `manifest.json` after validation.
+- **Quality status:** all 72 packs and 288 skills are marked `usable` in `manifest.json` after validation.
 - **Automation:** no GitHub Actions or workflow automation is included.
 
 ## Contents
 
-- 39 portable context packs, one per source content series
-- 156 reusable workflow skills
+- 72 portable context packs, one per source content series
+- 288 reusable workflow skills
 - Indexes by series, role, workflow, and skill catalog
 - Runtime loading notes for Codex, Claude Code / cowork, OpenClaw, and Hermes
 - Validation script for pack, skill, manifest, and index consistency
@@ -65,7 +65,7 @@ python3 scripts/validate.py
 Expected result for `v0.1.0`:
 
 ```text
-Validation passed: 39 packs, 156 skills
+Validation passed: 72 packs, 288 skills
 ```
 
 ## License and usage
