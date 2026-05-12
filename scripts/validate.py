@@ -8,8 +8,8 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-EXPECTED_PACKS = 73
-EXPECTED_SKILLS = 292
+EXPECTED_PACKS = 77
+EXPECTED_SKILLS = 308
 REQUIRED_SECTIONS = [
     "#",
     "## Use when",

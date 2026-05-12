@@ -2,7 +2,7 @@
   "name": "operator-agent-skills",
   "description": "Reusable operator-agent workflow skill packs derived from Antoine Buteau content series. These are portable workflow specifications, not OpenClaw runtime skills yet.",
   "private": true,
-  "pack_count": 73,
+  "pack_count": 77,
   "packs": [
     {
       "id": "expert-manager",
@@ -1478,7 +1478,7 @@
       "id": "company-hidden-data-model",
       "series_number": 43,
       "name": "Hidden Data Model Pack",
-      "source_series_name": "The Company’s Hidden Data Model",
+      "source_series_name": "The Company\u2019s Hidden Data Model",
       "ghost_tag": "hidden-data-model",
       "path": "packs/43-company-hidden-data-model",
       "skills": [
@@ -2558,10 +2558,150 @@
       "quality_status": "usable",
       "reviewed_at": "2026-05-11",
       "review_notes": "Reviewed for practical operator workflows, distinct mapping jobs, Wardley terminology, user/value-chain/evolution/doctrine/gameplay sequence, AI-era commoditization decisions, output schema, review gates, and failure modes."
+    },
+    {
+      "id": "pod-of-one-company",
+      "series_number": 74,
+      "name": "Pod-of-One Company Pack",
+      "source_series_name": "The Pod-of-One Company",
+      "ghost_tag": "pod-of-one-company",
+      "path": "packs/74-pod-of-one-company",
+      "skills": [
+        {
+          "id": "pod-fit-feasibility-test",
+          "name": "Pod Fit Feasibility Test",
+          "path": "skills/pod-fit-feasibility-test.md"
+        },
+        {
+          "id": "agent-delegation-management-design",
+          "name": "Agent Delegation Management Design",
+          "path": "skills/agent-delegation-management-design.md"
+        },
+        {
+          "id": "pod-level-hiring-rubric",
+          "name": "Pod-Level Hiring Rubric",
+          "path": "skills/pod-level-hiring-rubric.md"
+        },
+        {
+          "id": "solo-to-team-threshold-review",
+          "name": "Solo-to-Team Threshold Review",
+          "path": "skills/solo-to-team-threshold-review.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_url": "https://www.antoinebuteau.com/the-pod-of-one-company-series-index/",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-12",
+      "review_notes": "Pack reviewed for pod-level execution modeling, delegation governance, hiring/risk workflows, output schemas, and boundaries between solo leverage and team requirements."
+    },
+    {
+      "id": "end-of-dashboard",
+      "series_number": 75,
+      "name": "End of Dashboard Pack",
+      "source_series_name": "The End of the Dashboard",
+      "ghost_tag": "end-of-dashboard",
+      "path": "packs/75-end-of-dashboard",
+      "skills": [
+        {
+          "id": "dashboard-decay-diagnosis",
+          "name": "Dashboard Decay Diagnosis",
+          "path": "skills/dashboard-decay-diagnosis.md"
+        },
+        {
+          "id": "intent-to-action-workflow-spec",
+          "name": "Intent-to-Action Workflow Spec",
+          "path": "skills/intent-to-action-workflow-spec.md"
+        },
+        {
+          "id": "exception-queue-design",
+          "name": "Exception Queue Design",
+          "path": "skills/exception-queue-design.md"
+        },
+        {
+          "id": "trust-lineage-reversibility-controls",
+          "name": "Trust Lineage Reversibility Controls",
+          "path": "skills/trust-lineage-reversibility-controls.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_url": "https://www.antoinebuteau.com/the-end-of-the-dashboard-series-index/",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-12",
+      "review_notes": "Pack reviewed for dashboard-to-action workflow conversion, trust and reversibility controls, explicit user-job framing, and practical keep-vs-replace decisions."
+    },
+    {
+      "id": "agentic-gtm",
+      "series_number": 76,
+      "name": "Agentic GTM Pack",
+      "source_series_name": "Agentic GTM",
+      "ghost_tag": "agentic-gtm",
+      "path": "packs/76-agentic-gtm",
+      "skills": [
+        {
+          "id": "gtm-loop-inventory-prioritization",
+          "name": "GTM Loop Inventory Prioritization",
+          "path": "skills/gtm-loop-inventory-prioritization.md"
+        },
+        {
+          "id": "account-trigger-enrichment-loop-spec",
+          "name": "Account Trigger Enrichment Loop Spec",
+          "path": "skills/account-trigger-enrichment-loop-spec.md"
+        },
+        {
+          "id": "relevance-gated-personalization-review",
+          "name": "Relevance-Gated Personalization Review",
+          "path": "skills/relevance-gated-personalization-review.md"
+        },
+        {
+          "id": "revops-agent-handoff-governance",
+          "name": "RevOps Agent Handoff Governance",
+          "path": "skills/revops-agent-handoff-governance.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_url": "https://www.antoinebuteau.com/agentic-gtm-series-index/",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-12",
+      "review_notes": "Pack reviewed for loop-based GTM architecture, governance controls, RevOps handoff discipline, anti-spam safeguards, and measurable quality outcomes."
+    },
+    {
+      "id": "implementation-economy",
+      "series_number": 77,
+      "name": "Implementation Economy Pack",
+      "source_series_name": "The Implementation Economy",
+      "ghost_tag": "implementation-economy",
+      "path": "packs/77-implementation-economy",
+      "skills": [
+        {
+          "id": "purchase-to-adoption-gap-diagnosis",
+          "name": "Purchase-to-Adoption Gap Diagnosis",
+          "path": "skills/purchase-to-adoption-gap-diagnosis.md"
+        },
+        {
+          "id": "implementation-ownership-architecture",
+          "name": "Implementation Ownership Architecture",
+          "path": "skills/implementation-ownership-architecture.md"
+        },
+        {
+          "id": "implementation-economics-model",
+          "name": "Implementation Economics Model",
+          "path": "skills/implementation-economics-model.md"
+        },
+        {
+          "id": "services-to-product-conversion-plan",
+          "name": "Services-to-Product Conversion Plan",
+          "path": "skills/services-to-product-conversion-plan.md"
+        }
+      ],
+      "maturity": "usable",
+      "ghost_series_url": "https://www.antoinebuteau.com/the-implementation-economy-series-index/",
+      "quality_status": "usable",
+      "reviewed_at": "2026-05-12",
+      "review_notes": "Pack reviewed for value-realization diagnostics, ownership clarity across delivery functions, implementation economics, and productization loops tied to measurable adoption."
     }
   ],
-  "skill_count": 292,
+  "skill_count": 308,
   "quality_standard": "docs/quality-standard.md",
-  "usable_pack_count": 73,
+  "usable_pack_count": 77,
   "draft_pack_count": 0
 }
